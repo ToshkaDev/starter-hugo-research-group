@@ -24,6 +24,6 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Principal Investigator
 highlight_name: false
 ---
