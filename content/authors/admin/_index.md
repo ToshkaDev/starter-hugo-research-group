@@ -1,7 +1,7 @@
 ---
 title: Nelson Bighetti
 role: Professor of Artificial Intelligence
-avatar_filename: joulinephoto.jpg
+avatar_filename: https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/4/64702/files/2021/02/My-photo-2018-1409x1536.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
