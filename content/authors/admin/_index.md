@@ -3,7 +3,9 @@ title: Igor Jouline
 role: Rod Sharp Professor
 avatar_filename: avatar.jpg
 bio: Computational genomics, protein sequence analysis
-interests: []
+interests:
+  - Computational genomics
+  - Signal transduction
 social:
   - icon: envelope
     icon_pack: fas
