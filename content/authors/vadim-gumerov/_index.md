@@ -7,9 +7,11 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - 吳恩達
+  - VadimGumerov
 bio: Computational genomics MiST, TREND
-interests: []
+interests:
+  - Computational genomics
+  - Computational evolutionary biology
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,5 +25,6 @@ social:
 education:
   courses: []
 email: ""
-user_groups: []
+user_groups:
+  - Researchers
 ---
