@@ -3,7 +3,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: Jouline Lab
+title: Welcome to Jouline Lab!
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -11,8 +11,6 @@ design:
   css_class: null
 ---
 <br>
-
-Welcome to Jouline Lab! 
 
 ### **Nature has already performed billions of genetic experiments; we just need to analyze the results…**
 
