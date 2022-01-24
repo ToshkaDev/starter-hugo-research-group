@@ -1,23 +1,19 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+widget_id: home
+headless: true
+weight: 10
+title: Jouline Lab
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Welcome to Jouline Lab! 
+
+### **Nature has already performed billions of genetic experiments; we just need to analyze the results…**
+
+We are interested in understanding how living cells detect and transmit signals. Signal transduction is critical for regulating complex behaviors, such as navigation, memory, and development. We apply computational approaches to reveal novel features that cannot be found by using experimental techniques alone. We aim at understanding fundamental mechanisms, but our work also has medical implications, because aberrant signaling in human cells leads to many diseases including cancer and signaling pathways in both bacteria and humans are targets for drug design.
