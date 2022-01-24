@@ -9,10 +9,7 @@ superuser: true
 authors:
   - 吳恩達
 bio: Computational genomics MiST, TREND
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +23,5 @@ social:
 education:
   courses: []
 email: ""
-user_groups:
-  - Researchers
+user_groups: []
 ---
