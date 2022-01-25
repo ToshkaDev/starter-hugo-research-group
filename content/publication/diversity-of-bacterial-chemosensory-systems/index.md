@@ -23,7 +23,7 @@ abstract: Chemosensory system is the most complex, specialized mode of signal
 draft: false
 featured: false
 image:
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S1369527421000229-gr2_lrg.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-03-06T02:21:38.423Z
