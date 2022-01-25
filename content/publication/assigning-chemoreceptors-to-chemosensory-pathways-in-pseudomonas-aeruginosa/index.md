@@ -1,7 +1,7 @@
 ---
 title: Assigning chemoreceptors to chemosensory pathways in Pseudomonas aeruginosa
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Davi R. Ortega
   - Aaron D. Fleetwood
