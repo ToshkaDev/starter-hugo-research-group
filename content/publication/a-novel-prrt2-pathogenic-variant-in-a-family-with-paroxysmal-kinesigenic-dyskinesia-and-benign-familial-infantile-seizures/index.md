@@ -2,7 +2,7 @@
 title: A novel PRRT2 pathogenic variant in a family with Paroxysmal Kinesigenic
   Dyskinesia and Benign Familial Infantile Seizures
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Jacqueline G. Lu
   - Juliet Bishop
