@@ -4,16 +4,16 @@ title: The Campylobacter jejuni chemoreceptor Tlp10 has a bimodal ligand-binding
 publication_types:
   - "2"
 authors:
-  - BASSAM A. ELGAMOUDI
-  - EKATERINA P. ANDRIANOVA
-  - LUCY K. SHEWELL
-  - CHRISTOPHER J. DAY
-  - REBECCA M. KING
-  - TAHA
-  - HOSSINUR RAHMAN
-  - LAUREN E. HARTLEY-TASSELL
-  - IGOR B. ZHULIN
-  - VICTORIA KOROLIK
+  - Bassam A. Elgamoudi
+  - Ekaterina P. Andrianova
+  - Lucy K. Shewell
+  - Christopher J. Day
+  - Rebecca M. King
+  - Taha
+  - Hossinur Rahman
+  - Lauren E. Hartley-Tassell
+  - Igor B. Zhulin
+  - Victoria Korolik
 doi: 10.1126/scisignal.abc8521
 publication: ""
 publication_short: "Science Signaling 14: eabc8521"
