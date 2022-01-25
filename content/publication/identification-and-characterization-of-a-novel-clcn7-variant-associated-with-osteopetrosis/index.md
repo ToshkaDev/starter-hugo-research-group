@@ -4,19 +4,14 @@ title: Identification and characterization of a novel CLCN7 variant associated
 publication_types:
   - "2"
 authors:
-  - Bug
-  - D.S.
-  - Barkhatov
-  - I.M.
-  - Gudozhnikova
-  - Y.V.
-  - Tishkov
-  - A.V.
-  - Zhulin
-  - I.B.
-  - Petukhova
-  - N.V.
+  - Bug D.S.
+  - Barkhatov I.M.
+  - Gudozhnikova Y.V.
+  - Tishkov A.V.
+  - Zhulin I.B.
+  - Petukhova N.V.
 doi: https://doi.org/10.3390/genes11111242
+publication_short: "Genes (Basel) 11: 1242"
 abstract: Osteopetrosis is a group of rare inheritable disorders of the skeleton
   characterized by increased bone density. The disease is remarkably
   heterogeneous in clinical presentation and often misdiagnosed. Therefore,
