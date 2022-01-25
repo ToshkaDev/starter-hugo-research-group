@@ -2,7 +2,7 @@
 title: A di-iron protein recruited as an Fe[II] and oxygen sensor for bacterial
   chemotaxis functions by stabilizing an iron-peroxy species
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Alise R. Muok
   - Yijie Deng
