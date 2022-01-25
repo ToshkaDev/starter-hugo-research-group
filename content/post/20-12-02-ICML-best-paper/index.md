@@ -6,4 +6,5 @@ image:
   filename: featured.jpg
 ---
 
-This new tool by Vadim Gumerov will become a companion to many microbiologists around the world. Read about it here – https://academic.oup.com/nar/article/doi/10.1093/nar/gkaa243/5819594 – and explore it on our web page: http://trend.evobionet.com/
+This new tool by Vadim Gumerov will become a companion to many microbiologists around the world. Explore it on our web page: http://trend.evobionet.com/ – and 
+read about it [here](https://academic.oup.com/nar/article/doi/10.1093/nar/gkaa243/5819594) 
