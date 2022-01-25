@@ -49,7 +49,7 @@ abstract: Campylobacter jejuni is a bacterial pathogen that is a common cause of
 draft: false
 featured: false
 image:
-  filename: abc8521-f1-1-.jpeg
+  filename: https://www.science.org/cms/10.1126/scisignal.abc8521/asset/edaae477-05ce-4829-a988-39397fc548d1/assets/graphic/abc8521-f1.jpeg
   focal_point: CENTER
   preview_only: false
 date: 2021-01-06T03:32:12.986Z
