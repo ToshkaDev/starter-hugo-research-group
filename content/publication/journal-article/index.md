@@ -29,7 +29,7 @@ authors:
   - Dobritsa
   - A.A.
 author_notes: []
-publication: ""
+publication: "2021"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -37,7 +37,7 @@ publication_short: "Nature Plants: s41477-021-00951-9"
 url_source: ""
 url_video: ""
 title: A species-specific functional module controls formation of pollen apertures
-doi: https://www.nature.com/articles/s41477-021-00951-9
+doi: 10.1038/s41477-021-00951-9
 featured: false
 tags: []
 projects: []
@@ -51,9 +51,3 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
