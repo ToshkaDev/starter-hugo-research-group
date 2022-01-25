@@ -2,7 +2,7 @@
 title: "TREND: a platform for exploring protein function in prokaryotes based on
   phylogenetic, domain architecture and gene neighborhood analyses"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Gumerov
   - V. M. and I. B. Zhulin
