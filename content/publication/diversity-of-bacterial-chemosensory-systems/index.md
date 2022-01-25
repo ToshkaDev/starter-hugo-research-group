@@ -24,7 +24,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: CENTER
+  focal_point: BOTTOM
   preview_only: false
 date: 2021-03-06T02:21:38.423Z
 ---
