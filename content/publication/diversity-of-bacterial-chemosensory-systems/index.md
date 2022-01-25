@@ -8,6 +8,7 @@ authors:
   - Igor B. Zhulin
 doi: https://doi.org/10.1016/j.mib.2021.01.016
 publication: ""
+publication_short: "Current Opinion in Microbiology 62: 42-50"
 abstract: Chemosensory system is the most complex, specialized mode of signal
   transduction in bacteria and archaea. It is composed of several core and
   auxiliary protein components that are highly organized in order to deliver a
