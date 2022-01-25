@@ -50,7 +50,7 @@ draft: false
 featured: false
 image:
   filename: abc8521-f1-1-.jpeg
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
 date: 2021-11-03T02:32:12.986Z
 ---
