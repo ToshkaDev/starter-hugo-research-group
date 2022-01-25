@@ -4,12 +4,12 @@ title: Identification and characterization of a novel CLCN7 variant associated
 publication_types:
   - "2"
 authors:
-  - Bug D.S.
-  - Barkhatov I.M.
-  - Gudozhnikova Y.V.
-  - Tishkov A.V.
-  - Zhulin I.B.
-  - Petukhova N.V.
+  - Dmitrii S. Bug
+  - Ildar M. Barkhatov
+  - Yana V. Gudozhnikova
+  - Artem V. Tishkov
+  - Igor B. Zhulin
+  - Natalia V. Petukhova
 doi: https://doi.org/10.3390/genes11111242
 publication_short: "Genes (Basel) 11: 1242"
 abstract: Osteopetrosis is a group of rare inheritable disorders of the skeleton
