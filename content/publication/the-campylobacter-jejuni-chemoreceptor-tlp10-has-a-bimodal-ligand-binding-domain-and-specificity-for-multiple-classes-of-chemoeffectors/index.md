@@ -4,27 +4,19 @@ title: The Campylobacter jejuni chemoreceptor Tlp10 has a bimodal ligand-binding
 publication_types:
   - "2"
 authors:
-  - Elgamoudi
-  - B.A.
-  - Andrianova
-  - E.P.
-  - Shewell
-  - L.K.
-  - Day
-  - C.J.
-  - King
-  - R.M.
-  - Taha
-  - Rahman
-  - H.
-  - Hartley-Tassell
-  - L.E.
-  - Zhulin
-  - I.B.
-  - Korolik
-  - V.
+  - BASSAM A. ELGAMOUDI
+  - EKATERINA P. ANDRIANOVA
+  - LUCY K. SHEWELL
+  - CHRISTOPHER J. DAY
+  - REBECCA M. KING
+  - TAHA
+  - HOSSINUR RAHMAN
+  - LAUREN E. HARTLEY-TASSELL
+  - IGOR B. ZHULIN
+  - VICTORIA KOROLIK
 doi: 10.1126/scisignal.abc8521
 publication: ""
+publication_short: "Science Signaling 14: eabc8521"
 abstract: Campylobacter jejuni is a bacterial pathogen that is a common cause of
   enteritis in humans. We identified a previously uncharacterized type of
   sensory domain in the periplasmic region of the C. jejuni chemoreceptor Tlp10,
