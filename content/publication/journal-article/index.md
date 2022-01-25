@@ -5,29 +5,17 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Lee
-  - B.H.
-  - Wang
-  - R.
-  - Moberg
-  - I.M. Reeder
-  - S. H.
-  - Amom
-  - P.
-  - Tan
-  - M.H.
-  - Amstutz
-  - K.
-  - Chandna
-  - P.
-  - Helton
-  - A.
-  - Andrianova
-  - E.P.
-  - Zhulin
-  - I.B.
-  - Dobritsa
-  - A.A.
+  - Byung Ha Lee
+  - Rui Wang
+  - Ingrid M. Moberg
+  - Sarah H. Reeder
+  - Prativa Amom
+  - Michelle H. Tan
+  - Katelyn Amstutz
+  - Pallavi Chandna
+  - Adam Helton
+  - Ekaterina P. Andrianova
+  - Igor B. Zhulin & Anna A. Dobritsa
 author_notes: []
 publication: "2021"
 summary: ""
