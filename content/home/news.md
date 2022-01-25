@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: Latest News
 subtitle: null
+active: false
 content:
   count: 5
   filters:
@@ -18,5 +19,5 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "1"
+  columns: "2"
 ---
