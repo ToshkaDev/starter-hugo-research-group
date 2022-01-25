@@ -24,7 +24,7 @@ authors:
   - Korolik
   - V.
 doi: 10.1126/scisignal.abc8521
-publication: "2021"
+publication: ""
 abstract: Campylobacter jejuni is a bacterial pathogen that is a common cause of
   enteritis in humans. We identified a previously uncharacterized type of
   sensory domain in the periplasmic region of the C. jejuni chemoreceptor Tlp10,
