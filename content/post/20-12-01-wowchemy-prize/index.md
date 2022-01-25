@@ -3,6 +3,7 @@ title: MiST3.0 is released!
 date: 2018-10-06T04:00:00.000Z
 image:
   preview_only: false
+  filename: featured.jpg
 ---
 
 The wait is over – MiST3.0 has just been launched!
