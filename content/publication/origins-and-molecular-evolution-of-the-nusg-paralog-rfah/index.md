@@ -3,13 +3,13 @@ title: Origins and Molecular Evolution of the NusG Paralog RfaH
 publication_types:
   - "2"
 authors:
-  - Wang
-  - B.
-  - V. M. Gumerov
-  - E. P. Andrianova
-  - I. B. Zhulin
-  - and I. Artsimovitch
+  - Bing Wang
+  - Vadim M. Gumerov
+  - Ekaterina P. Andrianova
+  - Igor B. Zhulin
+  - Irina Artsimovitch
 doi: https://doi.org/10.1128/mBio.02717-20
+publication_short: "mBio 11: e02717-20"
 abstract: The only universally conserved family of transcription factors
   comprises housekeeping regulators and their specialized paralogs, represented
   by well-studied NusG and RfaH. Despite their ubiquity, little information is
