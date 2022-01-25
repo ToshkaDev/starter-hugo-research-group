@@ -49,4 +49,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 
 Supplementary notes can be added here, including \[code and math]
 
-\[Link](https://journals.asm.org/doi/full/10.1128/mbio.02061-17)
+[Link](https://journals.asm.org/doi/full/10.1128/mbio.02061-17)
