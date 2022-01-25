@@ -24,7 +24,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
 date: 2021-03-06T02:21:38.423Z
 ---
