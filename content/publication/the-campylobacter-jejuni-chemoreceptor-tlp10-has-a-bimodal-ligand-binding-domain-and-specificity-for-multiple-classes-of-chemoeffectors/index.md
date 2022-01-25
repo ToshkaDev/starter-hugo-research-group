@@ -1,6 +1,6 @@
 ---
 title: The Campylobacter jejuni chemoreceptor Tlp10 has a bimodal ligand-binding
-  domain and specificity for multiple classes of chemoeffectors.
+  domain and specificity for multiple classes of chemoeffectors
 publication_types:
   - "2"
 authors:
