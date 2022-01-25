@@ -36,7 +36,7 @@ url_project: ""
 publication_short: "Nature Plants: s41477-021-00951-9"
 url_source: ""
 url_video: ""
-title: A species-specific functional module controls formation of pollen apertures.
+title: A species-specific functional module controls formation of pollen apertures
 doi: https://www.nature.com/articles/s41477-021-00951-9
 featured: false
 tags: []
