@@ -15,18 +15,23 @@ header:
 2019
 
 [Microbiology professor awarded $1.9 million NIH grant](https://artsandsciences.osu.edu/news/microbiology-professor-awarded-19-million-nih-grant?utm_source=College+of+Arts+and+Sciences&utm_campaign=9f74893a98-EMAIL_CAMPAIGN_2019_04_05_05_38_COPY_01&utm_medium=email&utm_term=0_112a361dc0-9f74893a98-323349749)
+
 [Genomic classification of lung cancers diagnosed in patients from Appalachian Kentucky](http://ascopost.com/News/59714?email=f52c765713188a4fd5091ca3513e8ee9876f4fd173ef6ed078bb565726ba3c24&utm_medium=Email&utm_campaign=TAP%20EN)
 
 2017
 
 [Study IDs potential cell receptors to reduce antibiotic resistance](http://tntoday.utk.edu/2017/11/16/study-ids-potential-cell-receptors-reduce-antibiotic-resistance/)
+
 [University of Tennessee faculty members elected to the American Academy of Microbiology](http://tntoday.utk.edu/2017/03/23/faculty-members-elected-american-academy-microbiology/)
 
 2016
 
 [Researchers find new way to attack gastro bug](https://app.secure.griffith.edu.au/news/2016/10/21/researchers-find-new-way-to-attack-gastro-bug/)
+
 [‘Cache-ing’ in on PAS domains](http://www.nature.com/nrmicro/journal/v14/n6/full/nrmicro.2016.67.html)
+
 [Researchers develop way to better predict disease-causing mutations in human genes](http://tntoday.utk.edu/2016/02/18/researchers-develop-predict-diseasecausing-mutations-human-genes/)
+
 [Study led by UTHSC’s Robert W. Williams, PhD, establishes link between DNA and disease risk; lays groundwork for precision medicine](http://news.uthsc.edu/study-led-by-uthscs-robert-w-williams-phd-establishes-link-between-dna-and-disease-risk-lays-groundwork-for-precision-medicine/)
 
 2013
@@ -44,7 +49,9 @@ header:
 2010
 
 [More than half of bacteria have homing ability](http://news.sciencemag.org/biology/2010/06/more-half-bacteria-have-homing-ability)
+
 [Cell signaling classification system gives researchers new tool](https://www.ornl.gov/news/cell-signaling-classification-system-gives-researchers-new-tool)
+
 [Bacteria are more capable of complex decision-making than thought](http://tntoday.utk.edu/2010/01/14/new-research-understand-bacterias-thinking/)
 
 2009

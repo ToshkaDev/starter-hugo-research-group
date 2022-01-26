@@ -1,6 +1,15 @@
 ---
-# Files in this folder represent a Widget Page
-type: widget_page
+title: Research
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 ## Research theme 1: Signal transduction in bacteria
