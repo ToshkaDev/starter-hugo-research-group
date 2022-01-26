@@ -2,7 +2,7 @@
 title: The conserved TPR-containing C-terminal domain of Pseudomonas aeruginosa
   FimV is required for its cAMP-dependent and independent functions
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Buensuceso. R.
   - Y. Nguyen
