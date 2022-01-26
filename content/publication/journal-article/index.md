@@ -31,7 +31,7 @@ authors:
   - Ekaterina P. Andrianova
   - Igor B. Zhulin & Anna A. Dobritsa
 author_notes: []
-publication: "2021"
+publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
