@@ -33,8 +33,27 @@ abstract: "As an important model for transmembrane signaling, methyl-accepting
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Schematic representation of MCP_CD features revealed by the multiple
+    sequence alignment. The complete alignment is shown in SI Dataset 1. (A)
+    Subdomain structure of major domain classes. The three subdomains,
+    methylation helices, flexible bundle, and signaling, are indicated by
+    medium, light, and dark gray, respectively. Each rectangle represents a
+    group of two heptads. Heptads are numbered from N22 at the N terminus down
+    to N01 at the center and then up from C01 at the center to C22 at the C
+    terminus. This naming convention has the advantage that N- and C-terminal
+    heptads with the same number are adjacent in the structure. Gap locations
+    are shown in white. MCP classes are named 24H through 44H indicating the
+    number of heptads (H). Experimentally determined methylation sites in class
+    36H MCPs from E. coli (28) and class 44H MCPs from B. subtilis (33, 40), H.
+    salinarum (41, 42), and T. maritima (29, 43) are indicated by black circles.
+    (B) Amino acid conservation within the MCP_CD. Position of each of 309
+    residues in the alignment is indicated by black columns. The column height
+    shows the conservation level (see SI Text for details). Positions of the 44
+    seven-residue heptads (N22–C22) are indicated by background gray shading.
+    The first and fourth (a and d) residues of each heptad are strongly
+    conserved.
 date: 2007-02-21T04:49:30.688Z
 ---
