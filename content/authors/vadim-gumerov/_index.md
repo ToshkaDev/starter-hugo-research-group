@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - VadimGumerov
+  - Vadim Gumerov
 bio: Computational genomics MiST, TREND
 interests:
   - Computational genomics

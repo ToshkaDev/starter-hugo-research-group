@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: home
+    url: #welcome
     weight: 10
   - name: Research
     url: research

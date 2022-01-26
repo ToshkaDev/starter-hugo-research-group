@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - VadimGumerov
+  - Katia Andrianova
 bio: Computational genomics of signal transduction
 interests:
   - Computational genomics
