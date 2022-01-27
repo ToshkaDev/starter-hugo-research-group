@@ -3,7 +3,7 @@ title: A novel phototaxis receptor hidden in the cyanobacterial genome
 publication_types:
   - "2"
 authors:
-  - Zhulin I. B.
+  - Igor B. Zhulin
 publication_short: "Journal of Molecular Microbiology and Biotechnology 2: 491-493"
 draft: false
 featured: false
