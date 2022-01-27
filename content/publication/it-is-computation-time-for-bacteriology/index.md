@@ -3,7 +3,7 @@ title: It is computation time for bacteriology!
 publication_types:
   - "2"
 authors:
-  - Zhulin I. B.
+  - Igor B. Zhulin
 doi: https://doi.org/10.1128/JB.01491-08
 publication_short: "Journal of Bacteriology 191: 20-22."
 draft: false
