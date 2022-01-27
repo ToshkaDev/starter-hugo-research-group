@@ -3,7 +3,7 @@ title: Databases for microbiologists
 publication_types:
   - "2"
 authors:
-  - Zhulin I.B.
+  - Igor B. Zhulin
 doi: https://doi.org/10.1128/JB.00330-15
 publication_short: "Journal of Bacteriology 197: 2458-2467"
 abstract: Databases play an increasingly important role in biology. They
