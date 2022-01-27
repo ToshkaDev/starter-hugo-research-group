@@ -2,7 +2,7 @@
 title: "Bacillus subtilis and Its Closest Relatives: from Genes to Cells."
 subtitle: Chemotaxis and Motility, 437-452. In A. L. Sonenshein et al. (Ed.)
 publication_types:
-  - "2"
+  - "5"
 authors:
   - Aizawa S.-I.
   - I. B. Zhulin
