@@ -4,13 +4,13 @@ widget_id: home
 headless: true
 weight: 10
 title: Welcome to the Jouline Lab!
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: banner-image-1if3h6y.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 <br>
