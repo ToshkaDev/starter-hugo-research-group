@@ -10,6 +10,8 @@ user_groups:
 ---
 <!--StartFragment-->
 
+PhD student 2007-2012,
+
 postdoc 2012-2014
 
 <!--EndFragment-->
