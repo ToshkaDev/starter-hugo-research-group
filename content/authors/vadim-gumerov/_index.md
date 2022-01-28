@@ -1,5 +1,5 @@
 ---
-title: Vadim Gumerov
+title: Vadim M. Gumerov
 role: Research Scientist
 avatar_filename: avatar.jpg
 organizations:
