@@ -7,11 +7,11 @@ headless: true
 weight: 30
 title: null
 subtitle: null
-active: true
+active: false
 design:
   columns: "1"
   background:
-    image: banner-image-1if3h6y.jpg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
