@@ -7,4 +7,6 @@ interests:
 social: []
 email: xing.232@buckeyemail.osu.edu
 superuser: false
+user_groups:
+  - Scientists
 ---
