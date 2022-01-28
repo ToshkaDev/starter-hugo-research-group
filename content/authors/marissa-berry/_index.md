@@ -8,4 +8,6 @@ interests:
 social: []
 email: berry.818@osu.edu
 superuser: false
+user_groups:
+  - Scientists
 ---
