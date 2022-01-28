@@ -23,7 +23,7 @@ main:
     url: post
     weight: 60
   - name: Media
-    url: media
+    url: inmedia
     weight: 70
   - name: Contact
     url: contact
