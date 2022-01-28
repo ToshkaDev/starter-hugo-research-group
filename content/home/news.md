@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: News
 subtitle: null
-active: true
+active: false
 content:
   count: 5
   filters:
@@ -19,5 +19,5 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "2"
+  columns: "1"
 ---
