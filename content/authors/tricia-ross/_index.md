@@ -6,5 +6,5 @@ social: []
 email: ross.992@buckeyemail.osu.edu
 superuser: false
 user_groups:
-  - Scientists
+  - Grad Students
 ---
