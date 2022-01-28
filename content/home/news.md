@@ -5,7 +5,7 @@ headless: true
 weight: 20
 title: News
 subtitle: null
-active: false
+active: true
 content:
   count: 5
   filters:
