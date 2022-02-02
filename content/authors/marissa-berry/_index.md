@@ -14,5 +14,5 @@ social:
 email: ""
 superuser: false
 user_groups:
-  - Grad Students
+  - Researchers
 ---
