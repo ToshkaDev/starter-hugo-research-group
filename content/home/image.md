@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: msa_purple_500_long_high.jpg
+    image: msa_purple_500_long.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
