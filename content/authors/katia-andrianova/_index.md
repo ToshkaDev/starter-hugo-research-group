@@ -24,5 +24,5 @@ education:
   courses: []
 email: ""
 user_groups:
-  - Scientists
+  - Researchers
 ---
