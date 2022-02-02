@@ -13,7 +13,7 @@ design:
     image: ""
 hero_media: welcome.jpg
 ---
-![]()
+![](welcome.jpg)
 
 <br>
 
