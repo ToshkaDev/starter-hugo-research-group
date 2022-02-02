@@ -4,9 +4,9 @@ widget_id: home
 headless: true
 weight: 10
 title: Welcome to the Jouline Lab!
-active: true
+active: false
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
