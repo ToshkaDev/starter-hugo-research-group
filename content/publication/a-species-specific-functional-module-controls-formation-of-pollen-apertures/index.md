@@ -13,7 +13,8 @@ authors:
   - Pallavi Chandna
   - Adam Helton
   - Ekaterina P. Andrianova
-  - Igor B. Zhulin & Anna A. Dobritsa
+  - Igor B. Zhulin
+  - Anna A. Dobritsa
 doi: 10.1038/s41477-021-00951-9
 publication_short: "Nature Plants: s41477-021-00951-9"
 abstract: Pollen apertures are an interesting model for the formation of
