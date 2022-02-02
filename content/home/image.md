@@ -9,14 +9,14 @@ title: null
 subtitle: null
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: msa_purple2.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding:
       - 20px
