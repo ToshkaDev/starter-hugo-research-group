@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: chemo.jpg
 hero_media: welcome.jpg
 ---
 <br>
