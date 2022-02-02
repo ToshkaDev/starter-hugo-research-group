@@ -9,7 +9,7 @@ title: null
 subtitle: null
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: msa_purple3.jpg
     image_darken: 0
