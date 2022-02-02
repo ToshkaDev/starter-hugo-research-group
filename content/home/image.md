@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: msa_purple_ori.jpg
+    image: msa_purple_500.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
