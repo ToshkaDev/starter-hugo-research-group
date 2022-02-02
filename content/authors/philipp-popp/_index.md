@@ -6,5 +6,5 @@ bio: 2018-2019
 social: []
 superuser: false
 user_groups:
-  - Visitors
+  - Alumni
 ---
