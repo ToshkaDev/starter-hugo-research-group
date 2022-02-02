@@ -6,7 +6,7 @@ weight: 10
 title: Welcome to the Jouline Lab!
 active: true
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
   background:
