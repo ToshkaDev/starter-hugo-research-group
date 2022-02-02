@@ -2,6 +2,7 @@
 title: Tricia Ross
 role: Graduate Student
 avatar_filename: avatar.jpg
+weight: 70
 social:
   - display:
       header: false

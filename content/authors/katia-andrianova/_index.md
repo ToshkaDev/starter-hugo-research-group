@@ -2,6 +2,7 @@
 title: Katia Andrianova
 role: Postdoctoral Scholar
 avatar_filename: avatar.jpg
+weight: 30
 organizations:
   - name: The Ohio State University
     url: ""

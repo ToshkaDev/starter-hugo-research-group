@@ -2,6 +2,7 @@
 title: Komla Gnona
 role: Graduate Student
 avatar_filename: avatar.jpg
+weight: 60
 interests:
   - Evolutionary history of ME2
 social:

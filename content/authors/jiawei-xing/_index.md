@@ -2,6 +2,7 @@
 title: Jiawei Xing
 role: Graduate Student
 avatar_filename: avatar.jpg
+weight: 40
 interests:
   - Natural classification of PAS domains
 social:

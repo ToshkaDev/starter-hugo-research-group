@@ -2,6 +2,7 @@
 title: Igor Jouline
 role: Rod Sharp Professor
 avatar_filename: avatar.jpg
+weight: 10
 bio: Computational genomics, protein sequence analysis
 interests:
   - Computational genomics

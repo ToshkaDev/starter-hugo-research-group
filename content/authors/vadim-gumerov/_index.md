@@ -2,6 +2,7 @@
 title: Vadim Gumerov
 role: Research Scientist
 avatar_filename: avatar.jpg
+weight: 20
 organizations:
   - name: The Ohio State University
     url: ""

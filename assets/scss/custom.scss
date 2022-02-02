@@ -7,3 +7,9 @@
     //max-width: 80% !important;
     text-align: justify;
 }
+
+.home-section.fullscreen {
+    max-height: 30%;
+    min-height: calc(100vh - 500px);
+    //min-height: 30%;
+}
