@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "1"
   background:
-    image: chemo.jpg
+    image: ""
 ---
 
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
