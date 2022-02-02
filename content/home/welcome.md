@@ -3,7 +3,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: Welcome to the Jouline Lab!
+title: ""
 active: true
 design:
   columns: "1"
