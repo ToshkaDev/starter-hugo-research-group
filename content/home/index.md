@@ -7,5 +7,5 @@ weight: 30
 active: true
 design:
   background:
-    image: coders.jpg
+    image: ""
 ---
