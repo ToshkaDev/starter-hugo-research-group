@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Christophe Mougel
-  - Igor B Zhulin
+  - Igor B. Zhulin
 doi: https://doi.org/10.1016/S0968-0004(01)01969-7
 publication_short: "Trends in Biochemical Sciences 26: 582-584"
 abstract: A novel extracellular ligand-binding domain, termed CHASE, is
