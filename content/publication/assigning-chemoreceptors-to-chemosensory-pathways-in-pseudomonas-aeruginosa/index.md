@@ -8,7 +8,7 @@ authors:
   - Tino Krell
   - Caroline S. Harwood
   - Grant J. Jensen
-  - View ORCID ProfileIgor B. Zhulin
+  - Igor B. Zhulin
 doi: https://doi.org/10.1073/pnas.1708842114
 publication_short: "Proceedings of the National Academy of Sciences of the USA 114: 12809-12814"
 abstract: In contrast to Escherichia coli, a model organism for chemotaxis that
@@ -36,8 +36,8 @@ abstract: In contrast to Escherichia coli, a model organism for chemotaxis that
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: pnas-2017.jpg
+  focal_point: Center
   preview_only: false
 date: 2017-11-28T18:48:36.679Z
 ---
