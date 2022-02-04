@@ -44,7 +44,7 @@ abstract: The human oral microbiota encompasses representatives of many
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: doralis.jpeg
   focal_point: Smart
   preview_only: false
 date: 2018-03-14T03:51:31.824Z
