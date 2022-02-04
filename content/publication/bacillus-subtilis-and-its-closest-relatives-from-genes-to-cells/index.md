@@ -4,9 +4,9 @@ subtitle: Chemotaxis and Motility, 437-452. In A. L. Sonenshein et al. (Ed.)
 publication_types:
   - "5"
 authors:
-  - Aizawa S.-I.
-  - I. B. Zhulin
-  - L. Marquez-Magana and G. W. Ordal
+  - Shin-Ichi Aizawa
+  - Igor B. Zhulin
+  - Leticia Marquez-Magana and George W. Ordal
 publication_short: ASM Press, Washington, DC.
 draft: false
 featured: false
