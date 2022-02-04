@@ -6,7 +6,8 @@ publication_types:
 authors:
   - Shin-Ichi Aizawa
   - Igor B. Zhulin
-  - Leticia Marquez-Magana and George W. Ordal
+  - Leticia Marquez-Magana
+  - George W. Ordal
 publication_short: ASM Press, Washington, DC.
 draft: false
 featured: false
