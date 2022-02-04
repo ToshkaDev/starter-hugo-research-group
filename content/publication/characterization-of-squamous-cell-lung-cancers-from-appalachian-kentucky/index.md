@@ -23,7 +23,8 @@ authors:
   - Joseph Mueller
   - Nathan L. Vanderford
   - David W. Fardo
-  - Chi Wang and Susanne M. Arnold
+  - Chi Wang
+  - Susanne M. Arnold
 doi: 10.1158/1055-9965.EPI-17-0984
 publication_short: "Cancer Epidemiology, Biomarkers and Prevention 28: 348-356"
 abstract: >-
@@ -34,12 +35,9 @@ abstract: >-
   characterized genetic alterations in lung SQCC, but this cohort did not focus
   on AppKY residents.
 
-
   Methods: Whole-exome sequencing was performed on tumor and normal DNA samples from 51 lung SQCC subjects from AppKY. Somatic genomic alterations were compared between the AppKY and TCGA SQCC cohorts.
 
-
   Results: From this AppKY cohort, we identified an average of 237 nonsilent mutations per patient and, in comparison with TCGA, we found that PCMTD1 (18%) and IDH1 (12%) were more commonly altered in AppKY versus TCGA. Using IDH1 as a starting point, we identified a mutually exclusive mutational pattern (IDH1, KDM6A, KDM4E, JMJD1C) involving functionally related genes. We also found actionable mutations (10%) and/or intermediate or high-tumor mutation burden (65%), indicating potential therapeutic targets in 65% of subjects.
-
 
   Conclusions: This study has identified an increased percentage of IDH1 and PCMTD1 mutations in SQCC arising in the AppKY residents versus TCGA, with population-specific implications for the personalized treatment of this disease.
 
@@ -48,7 +46,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: cancer-2019.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-02-16T04:37:20.730Z
