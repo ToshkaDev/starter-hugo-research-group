@@ -53,8 +53,8 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: mol-case-studies-2018.jpg
+  focal_point: Center
   preview_only: false
-date: 2017-11-23T04:47:16.782Z
+date: 2018-02-09T04:47:16.782Z
 ---
