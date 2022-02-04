@@ -35,8 +35,8 @@ abstract: Pollen apertures are an interesting model for the formation of
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: nat-plants-2021.jpg
+  focal_point: Center
   preview_only: false
 date: 2021-06-29T01:57:54.630Z
 ---
