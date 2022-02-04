@@ -3,7 +3,7 @@ title: Sensory repertoire of bacterial chemoreceptors
 publication_types:
   - "2"
 authors:
-  - Álvaro Ortega
+  - Alvaro Ortega
   - Igor B. Zhulin
   - Tino Krell
 doi: " https://doi.org/10.1128/MMBR.00033-17"
@@ -29,8 +29,8 @@ abstract: Chemoreceptors in bacteria detect a variety of signals and feed this
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: mmbr-2017.jpeg
+  focal_point: Center
   preview_only: false
 date: 2017-10-25T17:51:08.705Z
 ---
