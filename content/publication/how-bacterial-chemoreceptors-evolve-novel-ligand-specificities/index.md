@@ -36,7 +36,7 @@ draft: false
 featured: false
 image:
   filename: mbio.03066-19-f0003.jpeg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 date: 2020-01-22T04:04:58.073Z
 ---
