@@ -4,7 +4,7 @@ title: "The superfamily of chemotaxis transducers: from physiology to genomics
 publication_types:
   - "2"
 authors:
-  - I B Zhulin
+  - Igor B. Zhulin
 doi: 10.1016/s0065-2911(01)45004-1
 publication_short: " Advances in Microbial Physiology 45: 157-198"
 abstract: "Chemotaxis transducers are specialized receptors that microorganisms
@@ -36,5 +36,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2001-01-02T02:20:45.723Z
+date: 2022-02-04T15:55:11.890Z
 ---
