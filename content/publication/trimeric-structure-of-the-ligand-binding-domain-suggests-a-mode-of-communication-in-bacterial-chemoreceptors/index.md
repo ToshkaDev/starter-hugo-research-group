@@ -21,7 +21,7 @@ publication_short: "Molecular Microbiology 112: 906-917"
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: mol-micro-2019.jpg
   focal_point: Smart
   preview_only: false
 summary: Transmembrane chemoreceptors are widely present in Bacteria and
