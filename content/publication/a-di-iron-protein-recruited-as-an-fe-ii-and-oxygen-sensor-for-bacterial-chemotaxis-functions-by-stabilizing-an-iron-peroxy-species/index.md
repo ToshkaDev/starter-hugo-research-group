@@ -13,7 +13,7 @@ authors:
   - Rachael E. Coleman
   - Kyle M. Lancaster
   - Chunhao Li
-  - View ORCID ProfileIgor B. Zhulin
+  - Igor B. Zhulin
   - Brian R. Crane
 doi: https://doi.org/10.1073/pnas.1904234116
 publication_short: "Proceedings of the National Academy of Sciences of the USA 116: 14955-14960"
