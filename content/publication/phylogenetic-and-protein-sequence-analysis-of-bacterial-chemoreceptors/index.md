@@ -16,7 +16,7 @@ abstract: Identifying chemoreceptors in sequenced bacterial genomes, revealing
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: meth-mol-biol-2018.jpg
   focal_point: Smart
   preview_only: false
 date: 2018-02-12T04:45:21.657Z
