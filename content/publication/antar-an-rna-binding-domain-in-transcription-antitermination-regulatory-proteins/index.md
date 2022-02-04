@@ -4,8 +4,8 @@ title: "ANTAR: an RNA-binding domain in transcription antitermination regulatory
 publication_types:
   - "2"
 authors:
-  - Chengyi J Shu
-  - Igor B Zhulin
+  - Chengyi J. Shu
+  - Igor B. Zhulin
 doi: https://doi.org/10.1016/S0968-0004(01)02036-9
 publication_short: "Trends in Biochemical Sciences 27: 3-5"
 abstract: An RNA-binding domain exemplified by the AmiR protein was detected in
