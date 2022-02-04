@@ -4,12 +4,13 @@ title: Quod erat demonstrandum? The mystery of experimental validation of
 publication_types:
   - "2"
 authors:
-  - Lakshminarayan M Iyer
-  - L Aravind
+  - Lakshminarayan M. Iyer
+  - L. Aravind
   - Peer Bork
   - Kay Hofmann
-  - Arcady R Mushegian
-  - Igor B Zhulin & Eugene V Koonin
+  - Arcady R. Mushegian
+  - Igor B. Zhulin
+  - Eugene V. Koonin
 doi: 10.1186/gb-2001-2-12-research0051
 publication_short: "Genome Biology 2: research0051.1-0051.11"
 abstract: >-
