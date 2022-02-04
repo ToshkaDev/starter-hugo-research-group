@@ -3,16 +3,15 @@ title: How bacterial chemoreceptors evolve novel ligand specificities
 publication_types:
   - "2"
 authors:
-  - Gavira
-  - J. A.
-  - V. M. Gumerov
-  - M. Rico-Jimenez
-  - M. Petukh
-  - A. A. Upadhyay
-  - A. Ortega
-  - M. A. Matilla
-  - I. B. Zhulin
-  - and T. Krell
+  - Jose A. Gavira
+  - Vadim M. Gumerov
+  - Miriam Rico-Jimenez
+  - Marharyta Petukh
+  - Amit A. Upadhyay
+  - Alvaro Ortega
+  - Miguel A. Matilla
+  - Igor B. Zhulin
+  - Tino Krell
 doi: https://doi.org/10.1128/mBio.03066-19
 publication_short: "mBio 11: e03066-19."
 abstract: "Chemoreceptor-based signaling pathways are among the major modes of
@@ -36,7 +35,7 @@ abstract: "Chemoreceptor-based signaling pathways are among the major modes of
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: mbio.03066-19-f0003.jpeg
   focal_point: Smart
   preview_only: false
 date: 2020-01-22T04:04:58.073Z
