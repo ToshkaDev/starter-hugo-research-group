@@ -5,7 +5,8 @@ subtitle: http://trend.evobionet.com/
 publication_types:
   - "2"
 authors:
-  - Gumerov V. M. and I. B. Zhulin
+  - Vadim M. Gumerov
+  - Igor B. Zhulin
 doi: https://doi.org/10.1093/nar/gkaa243
 publication_short: "Nucleic Acids Research 48: W72-W76"
 abstract: Key steps in a computational study of protein function involve
