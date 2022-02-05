@@ -30,7 +30,7 @@ abstract: LuxR-type transcription factors are the master regulators of quorum
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 date: 2013-07-10T03:09:22.636Z
