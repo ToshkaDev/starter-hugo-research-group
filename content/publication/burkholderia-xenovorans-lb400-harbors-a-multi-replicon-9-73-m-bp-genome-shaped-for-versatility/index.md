@@ -31,7 +31,7 @@ authors:
   - Tamara V. Tsoi
   - Luke E. Ulrich
   - Igor B. Zhulin
-  - and James M. Tiedje
+  - James M. Tiedje
 doi: https://doi.org/10.1073/pnas.0606924103
 publication_short: "Proceedings of the National Academy of Sciences of the USA 103: 15280-15287."
 abstract: Burkholderia xenovorans LB400 (LB400), a well studied, effective
@@ -60,7 +60,7 @@ abstract: Burkholderia xenovorans LB400 (LB400), a well studied, effective
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2006-08-11T03:55:52.190Z
