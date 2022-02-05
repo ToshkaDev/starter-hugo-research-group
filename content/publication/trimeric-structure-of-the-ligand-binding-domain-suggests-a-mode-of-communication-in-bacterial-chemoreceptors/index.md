@@ -35,7 +35,7 @@ abstract: Transmembrane chemoreceptors are widely present in Bacteria and
 draft: false
 featured: false
 image:
-  filename: mol-micro-2019.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: Transmembrane chemoreceptors are widely present in Bacteria and
