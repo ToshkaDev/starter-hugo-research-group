@@ -49,7 +49,7 @@ abstract: Phenome-wide association is a novel reverse genetic strategy to
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-02-03T03:45:43.650Z
