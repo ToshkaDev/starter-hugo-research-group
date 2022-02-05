@@ -34,7 +34,7 @@ abstract: Chemotaxis by Bacillus subtilis requires the inter-acting chemotaxis
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2008-06-08T01:25:38.330Z
