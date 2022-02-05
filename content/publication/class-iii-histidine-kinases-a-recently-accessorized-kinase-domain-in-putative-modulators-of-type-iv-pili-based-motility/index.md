@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Ogun Adebali
-  - Marharyta G. Petukh
+  - Marharyta Petukh
   - Alexander O. Reznik
   - Artem V. Tishkov
   - Amit A. Upadhyay
@@ -38,7 +38,7 @@ abstract: "Histidine kinases are key components of regulatory systems that
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2017-08-22T17:53:23.650Z
