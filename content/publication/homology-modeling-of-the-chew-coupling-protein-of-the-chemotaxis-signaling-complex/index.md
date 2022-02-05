@@ -30,7 +30,7 @@ abstract: "Homology models of the E. coli and T. maritima chemotaxis protein
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-08-08T03:15:14.334Z
