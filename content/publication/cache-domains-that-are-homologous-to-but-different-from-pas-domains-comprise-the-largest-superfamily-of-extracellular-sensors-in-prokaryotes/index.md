@@ -28,7 +28,7 @@ abstract: Cellular receptors usually contain a designated sensory domain that
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-04-07T02:40:42.896Z
