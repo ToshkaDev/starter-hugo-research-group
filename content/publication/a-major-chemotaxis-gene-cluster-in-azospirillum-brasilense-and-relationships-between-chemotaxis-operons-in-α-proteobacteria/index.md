@@ -30,5 +30,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2006-01-10T02:14:05.822Z
+date: 2002-02-07T02:14:05.822Z
 ---
