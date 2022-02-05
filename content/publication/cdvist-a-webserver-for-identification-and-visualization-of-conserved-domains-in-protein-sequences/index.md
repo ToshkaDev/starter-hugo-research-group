@@ -33,16 +33,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Workflow and visualization example. (a) Primary sequence is used as
-    input and transmembrane (gray), low complexity (magenta), and coiled-coil
-    (green) regions are predicted. (b) HMMER3 scan against Pfam database is
-    executed and first domain architecture is built. (c–e) HHblits followed by
-    HHsearch is executed against (c) Pfam, (d) PDB and (e) CDD databases. (f)
-    Domain coverage option: gray background represents the whole length of model
-    whereas red bar displays the portion of the model that aligns with the
-    query. Square points represent the domain positions that do not align with
-    the query. (g) Alignment option. Sequence is displayed to scale, and each
-    bar stands for alignment quality at that position. The absence of the bar at
-    a given position indicates gap in the alignment on query side"
+  caption: ""
 date: 2014-12-19T03:47:37.656Z
 ---
