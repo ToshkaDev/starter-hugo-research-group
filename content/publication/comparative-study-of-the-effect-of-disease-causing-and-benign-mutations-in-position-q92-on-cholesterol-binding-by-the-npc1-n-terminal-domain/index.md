@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Marharyta Petukh
   - Igor B. Zhulin
+doi: 10.1002/prot.25597
 publication_short: "Proteins 86: 1165-1175"
 abstract: The Niemann-Pick type C1 (NPC1) protein is a large transmembrane
   protein located in lysosomes/endosomes. NPC1 binds cholesterol (CLR) and
@@ -33,7 +34,7 @@ abstract: The Niemann-Pick type C1 (NPC1) protein is a large transmembrane
 draft: false
 featured: false
 image:
-  filename: npc1-nterminal.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2018-09-06T03:40:24.200Z
