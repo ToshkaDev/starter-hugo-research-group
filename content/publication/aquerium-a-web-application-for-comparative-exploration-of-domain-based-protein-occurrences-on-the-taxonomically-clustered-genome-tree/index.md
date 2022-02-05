@@ -2,7 +2,7 @@
 title: "Aquerium: a web application for comparative exploration of domain-based
   protein occurrences on the taxonomically clustered genome tree"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Ogun Adebali
   - Igor B. Zhulin
@@ -26,7 +26,7 @@ abstract: Gene duplication and loss are major driving forces in evolution. While
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2016-11-01T20:40:38.043Z
