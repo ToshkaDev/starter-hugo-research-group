@@ -14,7 +14,7 @@ authors:
   - Gavin E. Murphy
   - Megan J. Dobro
   - Igor B. Zhulin
-  - and Grant J. Jensen
+  - Grant J. Jensen
 doi: https://doi.org/10.1073/pnas.0905181106
 publication_short: " Proceedings of the National Academy of Sciences of the USA 106: 17181-17186."
 abstract: Chemoreceptors are key components of the high-performance signal
@@ -35,7 +35,7 @@ abstract: Chemoreceptors are key components of the high-performance signal
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2009-10-07T03:34:24.378Z
