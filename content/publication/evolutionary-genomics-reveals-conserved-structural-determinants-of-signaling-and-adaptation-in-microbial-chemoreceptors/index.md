@@ -4,7 +4,8 @@ title: Evolutionary genomics reveals conserved structural determinants of
 publication_types:
   - "2"
 authors:
-  - Alexander R.P. and I.B. Zhulin
+  - Roger P. Alexander
+  - Igor B. Zhulin
 doi: https://doi.org/10.1073/pnas.0609359104
 publication_short: "Proceedings of the National Academy of Sciences of the USA 104: 2885-2890"
 abstract: "As an important model for transmembrane signaling, methyl-accepting
