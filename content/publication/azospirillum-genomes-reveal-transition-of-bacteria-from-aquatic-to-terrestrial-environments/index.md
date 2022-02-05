@@ -50,7 +50,7 @@ abstract: Fossil records indicate that life appeared in marine environments ∼3
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: Genome sequencing and analysis of plant-associated beneficial soil
