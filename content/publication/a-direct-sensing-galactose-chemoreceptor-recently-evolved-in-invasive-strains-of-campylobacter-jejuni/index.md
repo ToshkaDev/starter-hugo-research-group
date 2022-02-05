@@ -2,7 +2,7 @@
 title: A direct-sensing galactose chemoreceptor recently evolved in invasive
   strains of Campylobacter jejuni
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Christopher J. Day
   - Rebecca M. King
@@ -12,7 +12,8 @@ authors:
   - Lauren E. Hartley-Tassell
   - Jennifer C. Wilson
   - Aaron D. Fleetwood
-  - Igor B. Zhulin & Victoria Korolik
+  - Igor B. Zhulin
+  - Victoria Korolik
 doi: 10.1038/ncomms13206
 publication_short: " Nature Communications 7: 13206"
 abstract: A rare chemotaxis receptor, Tlp11, has been previously identified in
@@ -31,8 +32,8 @@ abstract: A rare chemotaxis receptor, Tlp11, has been previously identified in
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: nat-commun-2016.jpg
+  focal_point: Bottom
   preview_only: false
 date: 2016-10-21T02:34:43.431Z
 ---
