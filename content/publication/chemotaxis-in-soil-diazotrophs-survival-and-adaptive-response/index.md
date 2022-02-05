@@ -1,9 +1,10 @@
 ---
 title: "Chemotaxis in soil diazotrophs: survival and adaptive response"
 publication_types:
-  - "5"
+  - "6"
 authors:
-  - Alexandre G. and I.B. Zhulin
+  - Gladys Alexandre
+  - Igor B. Zhulin
 publication_short: In Associative and Endophytic Nitrogen-fixing Bacteria and
   Cyanobacterial Associations. C. Elmerich and W.E. Newton, Eds. Springer, pp.
   73-84.
