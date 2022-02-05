@@ -34,7 +34,7 @@ abstract: Escherichia coli and Salmonella enterica are models for many
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-02-05T03:44:34.419Z
