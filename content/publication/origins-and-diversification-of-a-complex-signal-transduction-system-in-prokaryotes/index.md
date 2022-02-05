@@ -4,7 +4,7 @@ title: Origins and diversification of a complex signal transduction system in
 publication_types:
   - "2"
 authors:
-  - Kristin Wuichet K.
+  - Kristin Wuichet
   - Igor B. Zhulin
 doi: "DOI: 10.1126/scisignal.2000724"
 publication_short: "Science Signaling 3: ra50"
