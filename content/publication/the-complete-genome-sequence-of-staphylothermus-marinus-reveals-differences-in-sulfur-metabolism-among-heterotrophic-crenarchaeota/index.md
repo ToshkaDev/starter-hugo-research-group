@@ -2,15 +2,15 @@
 title: The complete genome sequence of Staphylothermus marinus reveals
   differences in sulfur metabolism among heterotrophic Crenarchaeota
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Iain J Anderson
   - Lakshmi Dharmarajan
   - Jason Rodriguez
   - Sean Hooper
   - Iris Porat
-  - Luke E Ulrich
-  - James G Elkins
+  - Luke E. Ulrich
+  - James G. Elkins
   - Kostas Mavromatis
   - Hui Sun
   - Miriam Land
@@ -18,11 +18,12 @@ authors:
   - Susan Lucas
   - Kerrie Barry
   - Harald Huber
-  - Igor B Zhulin
-  - William B Whitman
+  - Igor B. Zhulin
+  - William B. Whitman
   - Biswarup Mukhopadhyay
   - Carl Woese
-  - James Bristow & Nikos Kyrpides
+  - James Bristow
+  - Nikos Kyrpides
 doi: 10.1186/1471-2164-10-145
 publication_short: "BMC Genomics 10: 145."
 abstract: >-
