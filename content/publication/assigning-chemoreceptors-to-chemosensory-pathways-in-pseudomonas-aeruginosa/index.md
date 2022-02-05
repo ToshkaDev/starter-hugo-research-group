@@ -36,7 +36,7 @@ abstract: In contrast to Escherichia coli, a model organism for chemotaxis that
 draft: false
 featured: false
 image:
-  filename: pnas-2017.jpg
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
 date: 2017-11-28T18:48:36.679Z
