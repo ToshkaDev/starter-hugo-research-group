@@ -7,20 +7,20 @@ authors:
   - Martin Wu
   - Qinghu Ren
   - A. Scott Durkin
-  - Sean C Daugherty
-  - Lauren M Brinkac
-  - Robert J Dodson
+  - Sean C. Daugherty
+  - Lauren M. Brinkac
+  - Robert J. Dodson
   - Ramana Madupu
-  - Steven A Sullivan
-  - James F Kolonay
-  - William C Nelson
-  - Luke J Tallon
-  - Kristine M Jones
-  - Luke E Ulrich
-  - Juan M Gonzalez
-  - Igor B Zhulin
-  - Frank T Robb
-  - Jonathan A Eisen
+  - Steven A. Sullivan
+  - James F. Kolonay
+  - William C. Nelson
+  - Luke J. Tallon
+  - Kristine M. Jones
+  - Luke E. Ulrich
+  - Juan M. Gonzalez
+  - Igor B .Zhulin
+  - Frank T. Robb
+  - Jonathan A. Eisen
 doi: https://doi.org/10.1371/journal.pgen.0010065
 publication_short: "PLoS Genetics 1: e65"
 abstract: We report here the sequencing and analysis of the genome of the
@@ -48,7 +48,7 @@ abstract: We report here the sequencing and analysis of the genome of the
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2005-11-25T05:01:37.732Z
