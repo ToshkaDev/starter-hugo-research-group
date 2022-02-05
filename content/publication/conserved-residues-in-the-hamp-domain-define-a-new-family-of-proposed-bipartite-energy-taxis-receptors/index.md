@@ -32,7 +32,7 @@ abstract: HAMP domains, found in many bacterial signal transduction proteins,
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 date: 2009-01-02T04:40:34.286Z
