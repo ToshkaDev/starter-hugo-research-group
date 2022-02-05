@@ -34,7 +34,7 @@ abstract: Bacterial chemotaxis is one of the best studied signal transduction
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-11-15T04:11:39.132Z
