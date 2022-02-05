@@ -9,7 +9,7 @@ authors:
   - Hai-Zhen Zhu
   - Ekaterina P. Andrianova
   - Cheng-Ying Jiang
-  - Defeng Li https://orcid.org/0000-0002-8683-019X
+  - Defeng Li
   - Luyan Ma
   - Jie Feng
   - Zhi-Pei Liu
