@@ -4,16 +4,16 @@ title: The conserved TPR-containing C-terminal domain of Pseudomonas aeruginosa
 publication_types:
   - "2"
 authors:
-  - Buensuceso. R.
-  - Y. Nguyen
-  - K. Zhang
-  - M. Daniel-Ivad
-  - S. Sugiman-Marangos
-  - A. D. Fleetwood
-  - I. B. Zhulin
-  - M. S. Junop
-  - P. L. Howell
-  - and L. L. Burrows
+  - Ryan N. Buensuceso
+  - Ylan Nguyen
+  - Kun Zhang
+  - Martin Daniel-Ivad
+  - Seiji N. Sugiman-Marangos
+  - Aaron D. Fleetwood
+  - Igor B. Zhulin
+  - Murray S. Junop
+  - P. Lynne Howell
+  - Lori L. Burrows
 doi: " https://doi.org/10.1128/JB.00322-16"
 publication_short: "Journal of Bacteriology 198: 2263-2274"
 abstract: >
@@ -40,7 +40,7 @@ abstract: >
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-07-29T02:42:38.813Z
