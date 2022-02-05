@@ -46,7 +46,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: cancer-2019.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2019-02-16T04:37:20.730Z
