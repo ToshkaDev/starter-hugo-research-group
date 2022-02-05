@@ -2,11 +2,12 @@
 title: Establishing precise evolutionary history of a gene improves predicting
   disease causing missense mutations
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Ogun Adebali
   - Alexander O. Reznik
-  - Daniel S. Ory & Igor B. Zhulin
+  - Daniel S. Ory
+  - Igor B. Zhulin
 doi: 10.1038/gim.2015.208
 publication_short: " Genetics in Medicine 18: 1029-1036"
 abstract: >-
@@ -31,7 +32,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-02-19T03:38:30.237Z
