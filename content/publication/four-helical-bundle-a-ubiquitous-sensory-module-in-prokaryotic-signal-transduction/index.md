@@ -4,7 +4,7 @@ title: "Four-helical bundle: a ubiquitous sensory module in prokaryotic signal
 publication_types:
   - "2"
 authors:
-  - Luke Ulrich
+  - Luke E. Ulrich
   - Igor B. Zhulin
 doi: https://doi.org/10.1093/bioinformatics/bti1204
 publication_short: "Bioinformatics 21 Suppl 3: iii45-iii48"
