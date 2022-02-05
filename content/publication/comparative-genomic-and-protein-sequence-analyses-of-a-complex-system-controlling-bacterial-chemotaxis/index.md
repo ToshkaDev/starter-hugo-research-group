@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Kristin Wuichet
   - Roger P. Alexander
-  - Igor B.Zhulin
+  - Igor B. Zhulin
 doi: https://doi.org/10.1016/S0076-6879(06)22001-9
 publication_short: " Methods in Enzymology 422: 3-31"
 abstract: Molecular machinery governing bacterial chemotaxis consists of the
@@ -26,7 +26,7 @@ abstract: Molecular machinery governing bacterial chemotaxis consists of the
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2007-07-03T03:54:03.189Z
