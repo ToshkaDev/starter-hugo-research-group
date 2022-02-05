@@ -7,7 +7,7 @@ authors:
   - Leonid O. Sukharnikov
   - Markus Alahuhta
   - Roman Brunecky
-  - Amit Upadhyay
+  - Amit A. Upadhyay
   - Michael E. Himmel
   - Vladimir V. Lunin
   - Igor B. Zhulin
@@ -37,7 +37,7 @@ abstract: Currently, the cost of cellulase enzymes remains a key economic
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2012-11-16T04:18:09.936Z
