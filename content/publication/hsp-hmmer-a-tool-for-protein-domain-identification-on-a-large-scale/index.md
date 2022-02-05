@@ -6,8 +6,9 @@ authors:
   - Bhanu Rekapalli
   - Christian Halloy
   - Igor B. Zhulin
+doi: https://doi.org/10.1145/1529282.1529443
 publication_short: "Proceedings of the 24th ACM Symposium on Applied Computing,
-  Honolulu, Hawaii: 766-770."
+  Honolulu, Hawaii: 766-770"
 draft: false
 featured: false
 image:
