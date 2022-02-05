@@ -53,7 +53,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: mol-case-studies-2018.jpg
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
 date: 2018-02-09T04:47:16.782Z
