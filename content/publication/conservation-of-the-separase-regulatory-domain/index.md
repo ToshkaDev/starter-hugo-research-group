@@ -23,7 +23,7 @@ abstract: We report a protein sequence analysis of the cell cycle regulatory
 draft: false
 featured: false
 image:
-  filename: separase.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2018-04-28T03:43:09.089Z
