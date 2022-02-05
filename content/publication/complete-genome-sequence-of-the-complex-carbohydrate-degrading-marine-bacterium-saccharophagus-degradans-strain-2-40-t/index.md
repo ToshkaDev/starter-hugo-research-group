@@ -40,7 +40,7 @@ abstract: The marine bacterium Saccharophagus degradans strain 2-40 (Sde 2-40)
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2008-05-31T03:44:33.996Z
