@@ -37,6 +37,6 @@ featured: false
 image:
   filename: nat-plants-2021.jpg
   focal_point: Center
-  preview_only: false
+  preview_only: true
 date: 2021-06-29T01:57:54.630Z
 ---
