@@ -5,11 +5,11 @@ publication_types:
   - "2"
 authors:
   - Badri Krishnan
-  - Sharon E Thomas
+  - Sharon E. Thomas
   - Rihui Yan
   - Hirotsugu Yamada
-  - Igor B Zhulin
-  - Bruce D McKee
+  - Igor B. Zhulin
+  - Bruce D. McKee
 doi: https://doi.org/10.1534/genetics.114.166009
 publication_short: "Genetics 198: 947-965"
 abstract: Regular meiotic chromosome segregation requires sister centromeres to
@@ -37,7 +37,7 @@ abstract: Regular meiotic chromosome segregation requires sister centromeres to
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 date: 2014-09-06T03:06:40.276Z
