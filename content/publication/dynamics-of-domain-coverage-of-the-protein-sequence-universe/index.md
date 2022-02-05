@@ -5,7 +5,8 @@ publication_types:
 authors:
   - Bhanu Rekapalli
   - Kristin Wuichet
-  - Gregory D Peterson & Igor B Zhulin
+  - Gregory D. Peterson
+  - Igor B. Zhulin
 doi: 10.1186/1471-2164-13-634
 publication_short: "BMC Genomics 13: 634"
 abstract: >-
@@ -23,7 +24,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2012-11-17T04:16:33.231Z
