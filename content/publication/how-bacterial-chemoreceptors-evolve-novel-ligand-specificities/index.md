@@ -35,8 +35,8 @@ abstract: "Chemoreceptor-based signaling pathways are among the major modes of
 draft: false
 featured: false
 image:
-  filename: mbio.03066-19-f0003.jpeg
-  focal_point: Center
+  filename: featured.jpeg
+  focal_point: Smart
   preview_only: false
 date: 2020-01-22T04:04:58.073Z
 ---
