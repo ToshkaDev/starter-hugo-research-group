@@ -8,7 +8,8 @@ authors:
   - Chen Yang
   - Peter Ames
   - Jerome Baudry
-  - John S. Parkinson & Igor B. Zhulin
+  - John S. Parkinson
+  - Igor B. Zhulin
 doi: " 10.1038/ncomms3881"
 publication_short: "Nature Communications 4: 2881"
 abstract: Bacterial chemoreceptors are widely used as a model system for
@@ -29,7 +30,7 @@ abstract: Bacterial chemoreceptors are widely used as a model system for
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-12-14T04:07:58.468Z
