@@ -32,7 +32,7 @@ abstract: A rare chemotaxis receptor, Tlp11, has been previously identified in
 draft: false
 featured: false
 image:
-  filename: nat-commun-2016.jpg
+  filename: featured.jpg
   focal_point: Bottom
   preview_only: false
 date: 2016-10-21T02:34:43.431Z
