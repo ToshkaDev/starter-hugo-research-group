@@ -27,7 +27,7 @@ abstract: Chemotaxis allows bacteria to more efficiently colonize optimal
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-07-26T03:10:34.307Z
