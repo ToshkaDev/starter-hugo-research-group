@@ -18,7 +18,8 @@ authors:
   - Daad A. Saffarini
   - Margrethe H. Serres
   - Alfred M. Spormann
-  - Igor B. Zhulin & James M. Tiedje
+  - Igor B. Zhulin
+  - James M. Tiedje
 doi: 10.1038/nrmicro1947
 publication_short: "Nature Reviews Microbiology 6: 592-603"
 abstract: Bacteria of the genus Shewanella are known for their versatile
