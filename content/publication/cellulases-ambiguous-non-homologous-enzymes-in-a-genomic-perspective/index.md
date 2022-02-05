@@ -6,7 +6,7 @@ authors:
   - Leonid O. Sukharnikov
   - Brian J. Cantwell
   - Mircea Podar
-  - Igor B.Zhulin
+  - Igor B. Zhulin
 doi: https://doi.org/10.1016/j.tibtech.2011.04.008
 publication_short: "Trends in Biotechnology 29: 473-479"
 abstract: The key material for bioethanol production is cellulose, which is one
@@ -24,7 +24,7 @@ abstract: The key material for bioethanol production is cellulose, which is one
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2011-10-12T03:22:03.163Z
