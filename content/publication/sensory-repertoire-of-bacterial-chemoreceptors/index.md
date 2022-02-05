@@ -29,7 +29,7 @@ abstract: Chemoreceptors in bacteria detect a variety of signals and feed this
 draft: false
 featured: false
 image:
-  filename: mmbr-2017.jpeg
+  filename: featured.jpeg
   focal_point: Center
   preview_only: false
 date: 2017-10-25T17:51:08.705Z
