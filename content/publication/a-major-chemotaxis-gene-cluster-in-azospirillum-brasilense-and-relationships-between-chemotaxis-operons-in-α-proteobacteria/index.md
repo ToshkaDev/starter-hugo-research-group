@@ -6,9 +6,9 @@ publication_types:
 authors:
   - Dieter Hauwaerts
   - Gladys Alexandre
-  - Subrata K Das
+  - Subrata K. Das
   - Jos Vanderleyden
-  - Igor B Zhulin
+  - Igor B. Zhulin
 doi: https://doi.org/10.1111/j.1574-6968.2002.tb11061.x
 publication_short: "FEMS Microbiology Letters 208: 61-67"
 abstract: Azospirillum brasilense shows chemotaxis to a variety of nutrients and
@@ -27,7 +27,7 @@ abstract: Azospirillum brasilense shows chemotaxis to a variety of nutrients and
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2006-01-10T02:14:05.822Z
