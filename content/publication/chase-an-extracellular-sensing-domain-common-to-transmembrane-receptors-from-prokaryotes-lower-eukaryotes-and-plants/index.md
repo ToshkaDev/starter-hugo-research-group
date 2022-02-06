@@ -16,7 +16,7 @@ abstract: A novel extracellular ligand-binding domain, termed CHASE, is
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2001-10-02T01:27:13.415Z
