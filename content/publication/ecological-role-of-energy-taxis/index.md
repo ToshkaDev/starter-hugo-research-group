@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Gladys Alexandre
-  - Suzanne Greer-Phillips
+  - Suzanne E. Greer-Phillips
   - Igor B. Zhulin
 doi: https://doi.org/10.1016/j.femsre.2003.10.003
 publication_short: "FEMS Microbiology Reviews 28: 113-126"
