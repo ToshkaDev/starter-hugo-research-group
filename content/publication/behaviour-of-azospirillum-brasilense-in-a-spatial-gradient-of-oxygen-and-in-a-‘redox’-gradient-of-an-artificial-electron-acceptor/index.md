@@ -8,6 +8,7 @@ authors:
   - Irina I.Chalmina
   - Igor B. Zhulin
 doi: https://doi.org/10.1099/00221287-137-12-2781
+publication_short: "Journal of General Microbiology 137: 2781-2785"
 abstract: Azospirillum brasilense responds to a spatial gradient of oxygen by
   formation of a band in the zone of optimal oxygen concentration. The same
   behaviour was observed in a ‘redox’ gradient of tetramethyl-p-phenylenediamine
