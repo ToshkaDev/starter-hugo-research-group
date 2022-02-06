@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Gladys Alexandre
-  - Suzanne E. Greer
+  - Suzanne E. Greer-Phillips
   - Igor B. Zhulin
 doi: https://doi.org/10.1128/JB.182.21.6042-6048.2000
 publication_short: "Journal of Bacteriology 182: 6042-6048"
