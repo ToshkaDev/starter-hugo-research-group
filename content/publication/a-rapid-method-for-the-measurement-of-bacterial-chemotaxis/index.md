@@ -7,6 +7,7 @@ authors:
   - Igor B. Gibel
   - Vladimir V. Ignatov
 doi: https://doi.org/10.1007/BF02091959
+publication_short: "Current Microbiology 22: 307-309"
 abstract: A rapid method for bacterial chemotaxis in a spatial gradient of
   chemoeffectors has been developed. The method is based on turbidimetric
   measurement of bacteria movement in a chemoeffector gradient created in a
