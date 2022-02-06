@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Kristin Wuichet
-  - Igor B.Zhulin
+  - Igor B. Zhulin
 doi: https://doi.org/10.1016/S0966-842X(03)00073-8
 publication_short: "Trends in Microbiology 11: 200-203"
 abstract: Components of the chemotaxis system encoded in multiple heomologous
