@@ -7,7 +7,7 @@ authors:
   - Zhihong Xie
   - Luke E. Ulrich
   - Igor B. Zhulin
-  - and Gladys Alexandre
+  - Gladys Alexandre
 doi: https://doi.org/10.1073/pnas.0910055107
 publication_short: "Proceedings of the National Academy of Sciences of the USA 107: 2235-2240."
 abstract: Chemoreceptors provide sensory specificity and sensitivity that enable
