@@ -37,7 +37,7 @@ abstract: Motile microorganisms rapidly respond to changes in various
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpeg
   focal_point: Smart
   preview_only: false
 date: 2004-02-02T05:03:03.511Z
