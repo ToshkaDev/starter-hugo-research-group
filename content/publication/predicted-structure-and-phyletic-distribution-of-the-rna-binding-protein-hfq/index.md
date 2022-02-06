@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Xueguang Sun
-  - Igor Zhulin
+  - Igor B. Zhulin
   - and Roger M. Wartell
 doi: 10.1093/nar/gkf508
 publication_short: "Nucleic Acids Research 30: 3662-3671"
@@ -29,7 +29,7 @@ abstract: Hfq, a bacterial RNA-binding protein, was recently shown to contain
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2002-09-02T01:19:34.019Z
