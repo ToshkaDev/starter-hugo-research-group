@@ -10,7 +10,7 @@ publication_short: " Trends in Biotechnology 18: 41-42"
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2000-02-02T02:30:36.007Z
