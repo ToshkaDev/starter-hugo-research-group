@@ -31,7 +31,7 @@ abstract: "Transmembrane receptors in microorganisms, such as sensory histidine
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2003-01-02T02:07:59.629Z
