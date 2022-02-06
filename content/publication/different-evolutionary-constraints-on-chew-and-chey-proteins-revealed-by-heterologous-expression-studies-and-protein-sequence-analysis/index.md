@@ -32,7 +32,7 @@ abstract: CheW and CheY are single-domain proteins from a signal transduction
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2003-01-16T02:06:44.352Z
