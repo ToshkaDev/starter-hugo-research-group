@@ -35,7 +35,7 @@ abstract: "Adaptation to persisting stimulation is required for highly sensitive
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2002-11-02T02:18:01.526Z
