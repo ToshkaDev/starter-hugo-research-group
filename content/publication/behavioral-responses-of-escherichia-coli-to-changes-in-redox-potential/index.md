@@ -6,7 +6,7 @@ authors:
   - Vyacheslav A. Bespalov
   - Igor B. Zhulin
   - Barry L. Taylor
-doi: "doi: 10.1073/pnas.93.19.10084."
+doi: https://doi.org/10.1073/pnas.93.19.10084
 publication_short: "Proceedings of the National Academy of Sciences of the USA 93: 10084-10089"
 abstract: Escherichia coli bacteria sensed the redox state in their surroundings
   and they swam to a niche that had a preferred reduction potential. In a
