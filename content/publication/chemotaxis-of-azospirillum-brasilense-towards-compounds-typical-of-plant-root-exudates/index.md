@@ -7,7 +7,7 @@ authors:
   - Igor B. Zhulin
   - Svetlana E. Tretyakova
   - Vladimir V. Ignatov
-doi: https://link.springer.com/article/10.1007/BF02925621
+doi: 10.1007/BF02925621
 publication_short: "Folia Microbiologica 33: 277-280"
 abstract: Nitrogen-fixing Azospirillum brasilense exhibits positive chemotaxis
   towards a large number of organic compounds (amino acids, saccharides, organic
