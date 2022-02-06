@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Barry L. Taylor
   - Igor B. Zhulin
-doi: 10.1128/MMBR.63.2.479-506.1999
+doi: https://doi.org/10.1128/MMBR.63.2.479-506.1999
 publication_short: "Microbiology and Molecular Biology Reviews 63: 479-506"
 abstract: PAS domains are newly recognized signaling domains that are widely
   distributed in proteins from members of the Archaea and Bacteria and from
