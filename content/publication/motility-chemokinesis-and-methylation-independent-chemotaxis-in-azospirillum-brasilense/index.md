@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Igor B. Zhulin
   - Judith P. Armitage
-doi: 10.1128/jb.175.4.952-958.1993.
+doi: https://doi.org/10.1128/jb.175.4.952-958.1993
 publication_short: "Journal of Bacteriology 175: 952-958"
 abstract: "Observations of free-swimming and antibody-tethered Azospirillum
   brasilense cells showed that their polar flagella could rotate in both
