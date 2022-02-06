@@ -24,4 +24,4 @@ design:
       - 20px
       - "0"
 ---
-![](banner-image-1if3h6y.jpg)
+![]()
