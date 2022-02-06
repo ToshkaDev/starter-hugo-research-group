@@ -16,7 +16,7 @@ abstract: An RNA-binding domain exemplified by the AmiR protein was detected in
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2002-01-02T02:00:00.000Z
