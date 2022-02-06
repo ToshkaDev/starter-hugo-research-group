@@ -3,9 +3,9 @@ title: Model of bacterial band formation in aerotaxis
 publication_types:
   - "2"
 authors:
-  - B.C.Mazzag
-  - I.B.Zhulin
-  - A.Mogilner
+  - Boris C. Mazzag
+  - Igor B. Zhulin
+  - Alexander Mogilner
 doi: https://doi.org/10.1016/S0006-3495(03)74775-4
 publication_short: " Biophysical Journal 85: 3558-3574"
 abstract: "Aerotaxis is a particular form of “energy taxis”. It is based on a
@@ -34,11 +34,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: Model for energy sensing. Decrease in the proton motive force triggers
-    conformational changes in two aerotactic receptors (Aer, Tsr  Aer*, Tsr*),
-    which induce fast phosphorylation of CheY increasing reversal frequency.
-    Methylation-dependent adaptation pathway associated with Tsr together with
-    methylation-independent adaptation pathway based on dephosphorylation of
-    CheYp by CheZ are responsible for temporal comparison of the cell energy.
+  caption: ""
 date: 2003-12-03T05:05:39.781Z
 ---
