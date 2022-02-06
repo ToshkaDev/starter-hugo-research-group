@@ -7,5 +7,5 @@ weight: 30
 active: true
 design:
   background:
-    image: ""
+    image: chemosensory-systems-1.jpg
 ---
