@@ -20,7 +20,7 @@ social:
       header: false
     link: https://www.linkedin.com/in/igor-jouline-7bb1064/
     icon_pack: ai
-    icon: <i class="fab fa-linkedin"></i>
+    icon: fab fa-linkedin
 organizations:
   - name: The Ohio State University
     url: ""
