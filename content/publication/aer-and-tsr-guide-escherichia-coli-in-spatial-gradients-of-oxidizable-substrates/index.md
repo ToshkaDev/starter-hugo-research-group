@@ -36,7 +36,7 @@ abstract: The Aer and Tsr chemoreceptors in Escherichia coli govern tactic
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2003-09-01T04:07:43.175Z
