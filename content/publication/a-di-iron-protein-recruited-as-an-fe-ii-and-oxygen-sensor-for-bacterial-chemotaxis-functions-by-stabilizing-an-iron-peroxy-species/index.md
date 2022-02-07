@@ -32,7 +32,7 @@ abstract: Many bacteria contain cytoplasmic chemoreceptors that lack sensor
   receptor-coupled histidine kinase CheA, thereby providing a biochemical link
   between oxygen sensing and chemotaxis in diverse prokaryotes, including
   anaerobes of ancient origin.
-draft: true
+draft: false
 featured: false
 image:
   filename: featured.jpg
