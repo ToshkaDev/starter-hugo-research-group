@@ -13,3 +13,8 @@
     min-height: calc(100vh - 500px);
     //min-height: 30%;
 }
+
+.navbar .navbar-nav .nav-link.active {
+    font-weight: bold !important;
+    color: #AFC2FF !important;
+}

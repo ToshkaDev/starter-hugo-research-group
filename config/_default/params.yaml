@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: comp.biowonks@gmail.com
+email: jouline.1@osu.edu
 address:
   street: 318 W. 12th Avenue
   city: Columbus
@@ -31,7 +31,7 @@ address:
 coordinates:
   latitude: '39.99719010127012'
   longitude: '-83.01664920455761'
-  directions: 500 Aronoff Lab
+directions: 500 Aronoff Lab
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -51,7 +51,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
