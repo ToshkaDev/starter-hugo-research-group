@@ -14,7 +14,23 @@
     //min-height: 30%;
 }
 
+.home-section:first-of-type {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: -90px;
+}
+
 .navbar .navbar-nav .nav-link.active {
     font-weight: bold !important;
     color: #AFC2FF !important;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+.section-heading h1 {
+    margin: 0 0 10px 0;
+    margin-top: 20px;
 }
