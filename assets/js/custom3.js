@@ -46,5 +46,8 @@ $(document).ready(function(){
     } else if (pathname === '/people/' || pathname.split("/")[1] === 'author') {
         var contactLink = $('a[href="/people"]');
         contactLink.addClass("altactive");
+        //After adding divs with alumni page footer disapers because it gets overlapped by the previous div. For this reason I am adding a class with padding-top set to 70px
+        if (pathname === '/people/')
+            $('div.page-footer').addClass("page-footer-extend") 
     } 
 });
