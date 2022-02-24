@@ -3,6 +3,9 @@ title: Komla Gnona
 role: Graduate Student
 avatar_filename: avatar.jpg
 weight: 60
+organizations:
+  - name: The Ohio State University
+    url: ""
 social:
   - display:
       header: false

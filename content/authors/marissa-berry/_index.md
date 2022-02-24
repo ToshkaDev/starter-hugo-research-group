@@ -3,6 +3,9 @@ title: Marissa Berry
 role: Graduate Student
 avatar_filename: avatar.jpg
 weight: 40
+organizations:
+  - name: The Ohio State University
+    url: ""
 bio: ""
 social:
   - display:
