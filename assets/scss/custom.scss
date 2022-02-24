@@ -20,7 +20,7 @@
     margin-bottom: -90px;
 }
 
-.navbar .navbar-nav .nav-link.active {
+.navbar .navbar-nav .nav-link.active, .navbar .navbar-nav .nav-link.altactive {
     font-weight: bold !important;
     color: #AFC2FF !important;
 }
@@ -33,4 +33,21 @@
 .section-heading h1 {
     margin: 0 0 10px 0;
     margin-top: 20px;
+}
+
+#alumni{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.alumni-people {
+    margin-bottom: 5px;
+}
+
+#art-contain {
+    max-width: 950px;
+}
+
+.person-info {
+    padding-top: 30px;
 }
