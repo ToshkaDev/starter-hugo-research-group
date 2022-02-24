@@ -3,9 +3,6 @@ title: Igor Jouline
 role: Rod Sharp Professor
 avatar_filename: avatar.jpg
 bio: Computational genomics, protein sequence analysis
-interests:
-  - Computational genomics
-  - Signal transduction
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,8 +19,6 @@ social:
 organizations:
   - name: The Ohio State University
     url: ""
-education:
-  courses: []
 email: ""
 superuser: false
 user_groups:

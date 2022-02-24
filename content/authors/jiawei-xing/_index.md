@@ -3,14 +3,19 @@ title: Jiawei Xing
 role: Graduate Student
 avatar_filename: avatar.jpg
 weight: 70
-interests:
-  - Natural classification of PAS domains
 social:
   - display:
       header: false
     icon: envelope
     icon_pack: fas
     link: mailto:xing.232@buckeyemail.osu.edu
+  - icon: linkedin-in
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jiawei-xing-ba2a35168/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Jiawei-Xing
+    
 email: ""
 superuser: false
 user_groups:

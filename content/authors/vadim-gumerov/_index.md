@@ -26,6 +26,9 @@ social:
   - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/vadim-gumerov-41028641/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/ToshkaDev
 # education:
   # courses: []
 email: ""
