@@ -16,11 +16,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=c99cTlEAAAAJ&hl=en&oi=sra
-  - display:
-      header: false
+  - icon: linkedin-in
+    icon_pack: fab
     link: https://www.linkedin.com/in/igor-jouline-7bb1064/
-    icon_pack: ai
-    icon: fab fa-linkedin
 organizations:
   - name: The Ohio State University
     url: ""

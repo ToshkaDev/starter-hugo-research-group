@@ -2,7 +2,7 @@
 title: Marissa Berry
 role: Graduate Student
 avatar_filename: avatar.jpg
-weight: 50
+weight: 40
 bio: ""
 interests:
   - Chemosensory systems in bacteria
