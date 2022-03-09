@@ -26,3 +26,15 @@ user_groups:
 highlight_name: false
 weight: 10
 ---
+
+<div class="col-12 col-lg-12">
+  <div class="row person-info">
+    <p>
+      As an independent investigator, I studied bacterial signal transduction at temporal and spatial scales by combining computation and experiment (thanks to many productive collaborations with experimentalists). Through these studies our laboratory has contributed significantly to our understanding of the molecular mechanisms, global trends, and evolution of signal transduction in bacteria.
+    </p>
+    <p>
+      In recent years, we began using evolutionary approaches developed using bacterial systems in application to human genes. In these studies, we revealed evolutionary history of several human disease-associated genes that enabled us to significantly improve prediction of disease-causing mutations in cases ranging from Mendelian diseases to cancer.
+    </p>
+  </div>
+</div>
+{{% staticref "uploads/CV_Jouline__2022_March.pdf" %}}Curriculum Vitae{{% /staticref %}}

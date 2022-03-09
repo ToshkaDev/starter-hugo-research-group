@@ -12,6 +12,10 @@ header:
   image: ""
 ---
 
+2022
+
+[The rare discovery of a protein function universal to bacteria and humans](https://news.osu.edu/the-rare-discovery-of-a-protein-function-universal-to-bacteria-and-humans/)
+
 2019
 
 [Microbiology professor awarded $1.9 million NIH grant](https://artsandsciences.osu.edu/news/microbiology-professor-awarded-19-million-nih-grant?utm_source=College+of+Arts+and+Sciences&utm_campaign=9f74893a98-EMAIL_CAMPAIGN_2019_04_05_05_38_COPY_01&utm_medium=email&utm_term=0_112a361dc0-9f74893a98-323349749)

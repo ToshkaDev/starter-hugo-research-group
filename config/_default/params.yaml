@@ -6,7 +6,7 @@
 # Appearance
 
 theme: Minimal
-day_night: true
+day_night: false
 font: native
 font_size: m
 

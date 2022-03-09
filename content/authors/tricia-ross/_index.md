@@ -26,4 +26,4 @@ user_groups:
     <p>My research interests include signal transduction pathways in commensal gut bacteria and biofuel production. I also have a passion for antibiotic resistance research. Prior to graduate school, I worked as a Clinical Microbiologist. My hobbies include rock climbing, hiking, reading, and gaming. I hope to enter the biofuel research industry after completing my degree.</p>
   </div>
 </div>
-{{% staticref "uploads/Tricia_CV.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/Tricia_CV.pdf" %}}Curriculum Vitae{{% /staticref %}}

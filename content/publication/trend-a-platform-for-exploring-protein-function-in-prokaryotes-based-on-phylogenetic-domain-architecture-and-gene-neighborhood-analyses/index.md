@@ -24,12 +24,10 @@ abstract: Key steps in a computational study of protein function involve
   specific to his task. TREND is freely available at http://trend.evobionet.com
 draft: false
 featured: false
-tags:
-  - http://trend.evobionet.com/
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: http://trend.evobionet.com/
+  caption: ""
 date: 2020-04-14T03:01:04.456Z
 ---
