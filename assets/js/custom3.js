@@ -43,6 +43,9 @@ $(document).ready(function(){
     if (pathname === '/contact/') {
         var contactLink = $('a[href="/contact"]');
         contactLink.addClass("altactive");
+    } else if (pathname === '/') {
+        var contactLink = $('a[href="/"]');
+        contactLink.addClass("altactive");
     } else if (pathname === '/people/' || pathname.split("/")[1] === 'author') {
         var contactLink = $('a[href="/people"]');
         contactLink.addClass("altactive");
