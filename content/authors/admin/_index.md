@@ -37,4 +37,4 @@ weight: 10
     </p>
   </div>
 </div>
-{{% staticref "uploads/CV_Jouline__2022_March.pdf" %}}Curriculum Vitae{{% /staticref %}}
+{{% staticref "uploads/CV_Jouline__2022_March.pdf" "newtab" %}}Curriculum Vitae{{% /staticref %}}
