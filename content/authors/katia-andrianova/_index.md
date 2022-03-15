@@ -21,3 +21,12 @@ email: ""
 user_groups:
   - Researchers
 ---
+
+<div class="col-12 col-lg-12">
+  <div class="row person-info">
+    <p>
+      My research is focused on the analysis of the diversity and evolution of two component sensory systems in eukaryotes and chemosensory systems in prokaryotes. Another line of research that I am also pursuing is using evolutionary genomics to improve the prediction of the outcome of missense mutations in human genes.
+    </p>
+  </div>
+</div>
+
