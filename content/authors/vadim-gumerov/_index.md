@@ -1,18 +1,14 @@
 ---
 title: Vadim Gumerov
 role: Research Scientist
-avatar_filename: avatar.jpg
-weight: 20
 organizations:
   - name: The Ohio State University
     url: ""
 superuser: true
 authors:
   - Vadim Gumerov
-bio: Computational genomics MiST, TREND
-# interests:
-#   - Computational genomics
-#   - Computational evolutionary biology
+avatar_filename: avatar.jpg
+bio: Computational genomics, bioinformatics
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,11 +25,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ToshkaDev
-# education:
-  # courses: []
 email: ""
 user_groups:
   - Researchers
+weight: 20
 ---
 
 <div class="col-12 col-lg-12">
