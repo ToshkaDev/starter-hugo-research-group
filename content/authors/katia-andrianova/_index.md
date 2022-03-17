@@ -1,14 +1,13 @@
 ---
 title: Katia Andrianova
 role: Postdoctoral Scholar
-avatar_filename: avatar.jpg
-weight: 30
 organizations:
   - name: The Ohio State University
     url: ""
 superuser: true
 authors:
   - Katia Andrianova
+avatar_filename: avatar.jpg
 bio: Computational genomics of signal transduction
 social:
   - icon: envelope
@@ -20,13 +19,12 @@ social:
 email: ""
 user_groups:
   - Researchers
+weight: 30
 ---
-
 <div class="col-12 col-lg-12">
   <div class="row person-info">
     <p>
-      My research is focused on the analysis of the diversity and evolution of two component sensory systems in eukaryotes and chemosensory systems in prokaryotes. Another line of research that I am also pursuing is using evolutionary genomics to improve the prediction of the outcome of missense mutations in human genes.
+      My research is focused on the analysis of the diversity and evolution of two-component signal transduction systems in eukaryotes and chemosensory systems in prokaryotes. Another line of research that I am also pursuing is using evolutionary genomics to improve the prediction of the outcome of missense mutations in human genes.
     </p>
   </div>
 </div>
-
