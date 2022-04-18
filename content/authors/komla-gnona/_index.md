@@ -2,10 +2,6 @@
 title: Komla Gnona
 role: Graduate Student
 avatar_filename: avatar.jpg
-weight: 60
-organizations:
-  - name: The Ohio State University
-    url: ""
 social:
   - display:
       header: false
@@ -15,9 +11,13 @@ social:
   - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/komla-m-gnona/
+organizations:
+  - name: The Ohio State University
+    url: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
+weight: 60
 ---
 
 <div class="col-12 col-lg-12">
