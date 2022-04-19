@@ -6,7 +6,8 @@ $(document).ready(function(){
     $(".people-widget").after("<div id = 'art-contain' class='article-container'></div>");
     $("#art-contain").append("<div id ='art-style' class = 'article-style' ></div>");
     $("#art-style").append("<div id = 'alumni' class = 'alumni-people'><h2>Alumni<h2></div>");
-    $("#alumni").after("<div id ='Dmitrii' class = 'alumni-people'><b>Dmitrii Bug</b>, visiting scientist, <i>The Ohio State University</i>, 2019</div>");
+    $("#alumni").after("<div id ='Komla' class = 'alumni-people'><b>Komla Gnona</b>, PhD student, <i>The Ohio State University</i>, 2020-2022</div>");
+    $("#Komla").after("<div id ='Dmitrii' class = 'alumni-people'><b>Dmitrii Bug</b>, visiting scientist, <i>The Ohio State University</i>, 2019</div>");
     $("#Dmitrii").after("<div id ='Philipp' class = 'alumni-people'><b>Philipp Popp</b>, visiting PhD student, <i>The Ohio State University</i>, 2018-2019</div>");
     $("#Philipp").after("<div id ='Marharyta' class = 'alumni-people'><b>Marharyta Petukh</b>, postdoc, <i>University of Tennessee - Oak Ridge National Laboratory</i>, 2015-2018</div>");
     $("#Marharyta").after("<div id ='Artem' class = 'alumni-people'><b>Artem Tishkov</b>, visiting scientist, <i>University of Tennessee, 2014; The Ohio State University</i>, 2019</div>");
