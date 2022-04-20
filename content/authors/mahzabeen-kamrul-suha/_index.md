@@ -10,7 +10,7 @@ social:
     link: mailto:suha.1@buckeyemail.osu.edu
   - display:
       header: false
-    link: "www.linkedin.com/in/mahzabeenkamrulsuha "
+    link: "https://www.linkedin.com/in/mahzabeenkamrulsuha "
     icon_pack: fab
     icon: linkedin-in
 organizations:
