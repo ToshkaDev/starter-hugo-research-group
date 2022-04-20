@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     link: "www.linkedin.com/in/mahzabeenkamrulsuha "
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin-in
 organizations:
   - name: The Ohio State University
