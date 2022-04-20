@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Wellcome, Mahzabeen!
+Welcome, Mahzabeen!
