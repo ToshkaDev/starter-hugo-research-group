@@ -24,5 +24,8 @@ weight: 50
 ---
 <div class="col-12 col-lg-12">
   <div class="row person-info">
-    <p> I have a Physics background, but biology also fascinates me a lot. My current research interest involves protein structure manipulation and evolutionary genomics. I want to combine these skills and study human diseases in the future. My hobbies include singing, cooking, and engaging in different forms of storytelling </p>
+    <p> I have a Physics background, but biology also fascinates me a lot. My current research interest involves protein structure manipulation and evolutionary genomics. I want to combine these skills and study human diseases in the future. My hobbies include singing, cooking, and engaging in different forms of storytelling
+
+\    </p>
   </div>
+</div>
