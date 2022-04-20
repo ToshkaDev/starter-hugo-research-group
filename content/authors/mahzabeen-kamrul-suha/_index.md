@@ -8,6 +8,11 @@ social:
     icon: envelope
     icon_pack: fas
     link: mailto:suha.1@buckeyemail.osu.edu
+  - display:
+      header: false
+    link: "www.linkedin.com/in/mahzabeenkamrulsuha "
+    icon_pack: fas
+    icon: linkedin-in
 organizations:
   - name: The Ohio State University
     url: ""
