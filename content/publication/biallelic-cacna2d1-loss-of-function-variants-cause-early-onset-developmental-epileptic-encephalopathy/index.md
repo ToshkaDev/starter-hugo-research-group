@@ -20,7 +20,7 @@ authors:
   - Kerstin Kutsche
   - Annette C. Dolphin
 doi: https://doi.org/10.1093/brain/awac081
-publication_short: Brain . 2022 Mar 16;awac081
+publication_short: Brain, awac081
 abstract: Voltage-gated calcium (CaV) channels form three sub-families (CaV1-3).
   The CaV1 and CaV2 channels are heteromeric, consisting of an α1 pore-forming
   subunit, associated with auxiliary CaVβ and α2δ subunits. The α2δ subunits are
