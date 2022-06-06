@@ -4,7 +4,7 @@ title: Phyletic Distribution and Diversification of the Phage Shock Protein
 publication_types:
   - "2"
 authors:
-  - Philipp F Popp
+  - Philipp F. Popp
   - Vadim M. Gumerov
   - Ekaterina P. Andrianova
   - Lisa Bewersdorf
