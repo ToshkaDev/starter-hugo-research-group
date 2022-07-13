@@ -14,6 +14,8 @@ header:
 
 2022
 
+[Prof Jouline has been selected to serve as an American Society for Microbiology Distinguished Lecturer](https://artsandsciences.osu.edu/news/jouline-asm-distinguished-lecturer)
+
 [The rare discovery of a protein function universal to bacteria and humans](https://news.osu.edu/the-rare-discovery-of-a-protein-function-universal-to-bacteria-and-humans/)
 
 2019
