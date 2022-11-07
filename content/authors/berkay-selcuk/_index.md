@@ -8,6 +8,11 @@ social:
     icon: envelope
     icon_pack: fas
     link: mailto:selcuk.1@buckeyemail.osu.edu
+  - display:
+      header: false
+    link: https://twitter.com/berkayselcuk
+    icon: twitter
+    icon_pack: fab
 organizations:
   - name: The Ohio State University
     url: ""
