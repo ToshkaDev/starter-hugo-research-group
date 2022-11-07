@@ -13,6 +13,12 @@ social:
     link: https://twitter.com/berkayselcuk
     icon: twitter
     icon_pack: fab
+  - display:
+      header: false
+    label: ""
+    icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=tu2NK_0AAAAJ&hl=tr
 organizations:
   - name: The Ohio State University
     url: ""
