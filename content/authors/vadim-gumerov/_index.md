@@ -1,5 +1,5 @@
 ---
-title: Vadim M. Gumerov
+title: Vadim Gumerov
 role: Research Scientist
 organizations:
   - name: The Ohio State University
