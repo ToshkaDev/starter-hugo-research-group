@@ -12,7 +12,8 @@ authors:
   - Tino Krell
   - Igor B. Zhulin
 doi: https://doi.org/10.1073/pnas.2110415119
-publication_short: "Proceedings of the National Academy of Sciences of the USA, 119: e2110415119"
+publication: "Proceedings of the National Academy of Sciences of the USA, 119: e2110415119"
+publication_short: ""
 abstract: Amino acids are the building blocks of life, and they are also
   recognized as signals by various receptors in bacteria, archaea, and
   eukaryotes. Despite their common basic structure, no universal mechanism for
