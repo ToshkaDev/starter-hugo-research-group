@@ -6,7 +6,7 @@ organizations:
     url: ""
 superuser: true
 authors:
-  - Vadim Gumerov
+  - Vadim M. Gumerov
 avatar_filename: avatar.jpg
 bio: Computational genomics, bioinformatics
 social:
