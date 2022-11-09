@@ -8,7 +8,7 @@ authors:
   - Vadim M. Gumerov
   - Igor B. Zhulin
 doi: 10.1128/jb.00300-22
-publication: Journal of Bacteriology
+publication: Journal of Bacteriology, jb.00300-22, Ahead of print
 abstract: Photoactive yellow protein (PYP) is a model photoreceptor. It binds a
   p-coumaric acid as a chromophore, thus enabling blue light sensing. The first
   discovered single-domain PYP from Halorhodospira halophila has been studied
