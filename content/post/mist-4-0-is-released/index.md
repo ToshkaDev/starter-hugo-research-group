@@ -1,5 +1,5 @@
 ---
-title: MiST 4.0 is released
+title: MiST 4.0 is released!
 date: 2023-05-03T14:51:27.270Z
 draft: false
 featured: false
