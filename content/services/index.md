@@ -14,7 +14,7 @@ header:
 
 <br/>
 
-## [MiST3.0](http://mistdb.com/)
+## [MiST](http://mistdb.com/)
 Microbial Signal Transduction database
 
 ## [TREND](http://trend.evobionet.com/)
