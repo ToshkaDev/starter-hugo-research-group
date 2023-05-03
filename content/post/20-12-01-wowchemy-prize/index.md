@@ -1,12 +1,11 @@
 ---
-title: MiST3.0 is released!
+title: MiST 3.0 is released!
 date: 2018-10-06T04:00:00.000Z
 image:
   preview_only: false
   filename: featured.jpg
 ---
-
-The wait is over – MiST3.0 has just been launched!
+The wait is over – MiST 3.0 has just been launched!
 
 The database is still under a heavy development, so please be patient – some genomes are still being processed, but all reference and representative RefSeq genomes are available for exploration.
 
