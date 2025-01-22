@@ -1,7 +1,7 @@
 ---
 title: Aneel Biswas
-role: Research Assistant
-avatar_filename: avatar.jpg
+role: Graduate Research Associate
+avatar_filename: aneel_headshot.jpeg
 social:
   - display:
       header: false
@@ -19,6 +19,6 @@ weight: 90
 ---
 <!--StartFragment-->
 
-I am a recent graduate of Ohio State in Molecular Genetics looking to pursue a PhD in the near future. My work in Jouline lab is focused on the evolution of serine-threonine kinases (Pkinases). In particular, I am interested in the presence and distribution of STKs in prokaryotes. In addition to biology I have an interest and education in computer science.
+My work in Jouline lab is focused on the evolution of serine-threonine kinases (Pkinases). In particular, I am interested in the presence and distribution of STKs in prokaryotes. In addition to biology I have an interest and education in computer science.
 
 <!--EndFragment-->
