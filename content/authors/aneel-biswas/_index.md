@@ -1,7 +1,7 @@
 ---
 title: Aneel Biswas
 role: Graduate Research Associate
-avatar_filename: aneel_headshot.jpeg
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
