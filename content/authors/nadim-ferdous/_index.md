@@ -11,4 +11,6 @@ social:
 organizations:
   - name: The Ohio State University
 superuser: false
+user_groups:
+  - Researchers
 ---
