@@ -19,7 +19,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 weight: 50
 ---
 <div class="col-12 col-lg-12">
