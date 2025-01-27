@@ -2,10 +2,6 @@
 title: Tricia Ross
 role: Graduate Student
 avatar_filename: avatar.jpg
-weight: 50
-organizations:
-  - name: The Ohio State University
-    url: ""
 social:
   - display:
       header: false
@@ -15,10 +11,14 @@ social:
   - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/tricia-ross-60450a79/
+organizations:
+  - name: The Ohio State University
+    url: ""
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
+weight: 50
 ---
 
 <div class="col-12 col-lg-12">
