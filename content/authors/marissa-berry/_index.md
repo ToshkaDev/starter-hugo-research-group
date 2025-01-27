@@ -2,10 +2,6 @@
 title: Marissa Berry
 role: Graduate Student
 avatar_filename: avatar.jpg
-weight: 40
-organizations:
-  - name: The Ohio State University
-    url: ""
 bio: ""
 social:
   - display:
@@ -16,10 +12,14 @@ social:
   - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/marissa-berry-884913116/
+organizations:
+  - name: The Ohio State University
+    url: ""
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
+weight: 40
 ---
 
 <div class="col-12 col-lg-12">
