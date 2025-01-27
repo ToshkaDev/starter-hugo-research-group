@@ -1,6 +1,6 @@
 ---
 title: Aneel Biswas
-role: Graduate Research Associate
+role: Graduate Research Associate -- Biophysics
 avatar_filename: avatar.jpg
 social:
   - display:
