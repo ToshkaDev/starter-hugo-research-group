@@ -2,10 +2,6 @@
 title: Jiawei Xing
 role: Graduate Student
 avatar_filename: avatar.jpg
-weight: 70
-organizations:
-  - name: The Ohio State University
-    url: ""
 social:
   - display:
       header: false
@@ -18,11 +14,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Jiawei-Xing
-    
+organizations:
+  - name: The Ohio State University
+    url: ""
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
+weight: 70
 ---
 
 <div class="col-12 col-lg-12">
