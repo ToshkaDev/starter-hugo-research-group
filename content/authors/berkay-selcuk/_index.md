@@ -28,10 +28,8 @@ user_groups:
   - Researchers
 weight: 80
 ---
-
-
 <!--StartFragment-->
 
-I am interested in understanding the evolution of G protein-coupled receptors. My previous work was focused on residues that are conserved in aminergic receptors that may control G protein coupling selectivity and receptor homodimerization. Currently, I am building the phylogenetic tree for all human GPCRs to understand how evolution impacts receptor functions.
+I am interested in understanding the evolution of G protein-coupled receptors. My previous work was focused on residues that are conserved in aminergic receptors that may control G protein coupling selectivity and receptor homodimerization. Currently, I am building the phylogenetic tree for all human GPCRs to understand how evolution impacts receptor functions. Check
 
 <!--EndFragment-->
