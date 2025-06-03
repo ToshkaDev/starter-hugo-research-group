@@ -2,7 +2,6 @@
 title: Diverse sensory repertoire of paralogous chemoreceptors Tlp2, Tlp3, and
   Tlp4 in Campylobacter jejuni.
 publication_types:
-  - "0"
   - "2"
 authors:
   - Taha
@@ -13,7 +12,7 @@ authors:
   - Lauren E. Hartley-Tassell
   - Rebecca M. King
   - Tahria Najnin
-  - Igo B. Zhulin
+  - Igor B. Zhulin
   - Victoria Korolik
 doi: https://doi.org/10.1128/spectrum.03646-22
 abstract: "Campylobacter jejuni responds to extracellular stimuli via
