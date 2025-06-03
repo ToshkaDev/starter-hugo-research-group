@@ -10,7 +10,7 @@ authors:
   - Igor B. Zhulin
   - Annette C. Dolphin
 doi: https://doi.org/10.1080/19336950.2023.2167563
-publication: Channels  Volume 17, 2023 - Issue 1
+publication: Channels,  vol.17, Issue 1
 abstract: In this hybrid review, we have first collected and reviewed available
   information on the structure and function of the enigmatic cache domains in
   α2δ proteins. These are organized into two double cache (dCache_1) domains,
