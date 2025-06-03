@@ -11,7 +11,7 @@ authors:
   - Ricardo Urquidi Camacho
   - Igor B. Zhulin
   - Aman Y. Husbands
-doi: https://www.nature.com/articles/s41467-024-54269-z
+doi: https://doi.org/10.1038/s41467-024-54269-z
 publication: "Nature Communications, vol. 15: 9861"
 abstract: Functional divergence of transcription factors (TFs) has driven
   cellular and organismal complexity throughout evolution, but its mechanistic
