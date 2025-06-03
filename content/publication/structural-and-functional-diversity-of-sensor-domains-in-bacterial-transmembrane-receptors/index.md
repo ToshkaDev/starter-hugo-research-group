@@ -8,7 +8,7 @@ authors:
   - José A. Gavira
   - Elizabet Monteagudo-Cascales
   - Igor B. Zhulin
-  - Tino Krel
+  - Tino Krell
 doi: "doi: 10.1016/j.tim.2025.02.019."
 publication: Trends in Microbiology. Online ahead of print.
 abstract: The ability of bacteria to adapt to changing environmental conditions
