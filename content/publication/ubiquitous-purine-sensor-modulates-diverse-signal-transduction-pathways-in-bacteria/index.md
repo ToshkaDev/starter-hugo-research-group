@@ -11,7 +11,7 @@ authors:
   - José A. Gavira
   - Igor B. Zhulin
   - Tino Krell
-doi: https://www.nature.com/articles/s41467-024-50275-3
+doi: https://doi.org/10.1038/s41467-024-50275-3
 publication: "Nature Communications, vol. 15: 5867"
 draft: false
 featured: false
