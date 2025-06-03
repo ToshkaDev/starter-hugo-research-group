@@ -15,7 +15,7 @@ publication: Environmental Microbiology, 2022, vol. 25, issue 1, pp. 11-16
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: nihms-1826975-f0001.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-01-23T18:01:41.253Z
