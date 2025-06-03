@@ -10,7 +10,7 @@ authors:
   - Miguel A. Matilla
   - Igor B. Zhulin
   - Tino Krell
-doi: " https://doi.org/10.1073/pnas.240988112"
+doi: https://doi.org/10.1073/pnas.240988112
 publication: "Proceedings of the National Academy of Sciences of the USA, vol.
   122, No 5: e2409881122"
 abstract: Many bacterial receptors contain multimodular sensing domains
