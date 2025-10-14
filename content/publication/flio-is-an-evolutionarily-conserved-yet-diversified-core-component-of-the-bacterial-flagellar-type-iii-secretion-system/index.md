@@ -11,7 +11,7 @@ authors:
   - Igor B Zhulin
 doi: 10.1073/pnas.2512476122
 publication: "Proceedings of the National Academy of Sciences of the USA, vol.
-  122: e2512476122."
+  122: e2512476122"
 draft: false
 featured: false
 image:
