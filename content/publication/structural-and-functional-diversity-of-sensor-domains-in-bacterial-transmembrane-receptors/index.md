@@ -10,7 +10,7 @@ authors:
   - Igor B. Zhulin
   - Tino Krell
 doi: "doi: 10.1016/j.tim.2025.02.019"
-publication: Trends in Microbiology. Online ahead of print.
+publication: "Trends in Microbiology, vol. 33: 796-809."
 abstract: The ability of bacteria to adapt to changing environmental conditions
   largely depends on transmembrane receptors that sense signal molecules and
   generate responses such as chemotaxis, changes in gene expression, or
@@ -29,5 +29,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-03-21T19:56:56.891Z
+date: 2025-10-14T12:07:00.689Z
 ---
