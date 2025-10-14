@@ -30,7 +30,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: dhap_binding-1.png
   focal_point: Smart
   preview_only: false
 date: 2025-10-14T12:32:12.180Z
