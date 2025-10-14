@@ -42,7 +42,7 @@ abstract: "The human gut is rich in metabolites and harbors a complex microbial
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: picture3.png
   focal_point: Smart
   preview_only: false
 date: 2025-10-14T12:25:01.803Z
