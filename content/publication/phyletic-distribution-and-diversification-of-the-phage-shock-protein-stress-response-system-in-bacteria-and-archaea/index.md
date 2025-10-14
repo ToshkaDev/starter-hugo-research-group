@@ -42,6 +42,6 @@ featured: false
 image:
   filename: picture1.png
   focal_point: CENTER
-  preview_only: false
+  preview_only: true
 date: 2022-05-23T17:22:30.297Z
 ---
