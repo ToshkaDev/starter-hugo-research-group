@@ -49,7 +49,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: mbio.02379-25.f004.jpg
   focal_point: Smart
   preview_only: false
 date: 2025-10-14T12:54:38.803Z
