@@ -17,6 +17,6 @@ hero_media: welcome.jpg
 
 <br>
 
-## **Nature has already performed billions of genetic experiments - we simply need to analyze the results…**
+## **Nature has already performed billions of genetic experiments - our task is to analyze the results…**
 
-We are interested in understanding how cells detect and transmit signals. Signal transduction systems control complex behaviors, such as motility. To uncover novel features of these systems, we develop computational approaches grounded in evolutionary genomics. Our goal is to elucidate fundamental mechanisms of cellular signaling. At the same time, our research has important biomedical implications, as dysregulated signaling underlies many human diseases, and signal transduction pathways in both bacterial and human cells serve as valuable targets for drug development.
+We study how bacteria detect and respond to signals from their environment and from within the cell. Bacterial signaling networks regulate behaviors as diverse as motility, development, metabolic adaptation, and virulence. We investigate how these systems emerged, diversified, and adapted to different ecological niches. Our goals range from uncovering universal design principles of signal transduction to elucidating the molecular mechanisms of signal detection and transmission. Beyond advancing fundamental microbiology, our findings inform strategies for targeting bacterial and human pathways in medicine.
