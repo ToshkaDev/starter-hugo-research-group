@@ -12,7 +12,7 @@ authors:
   - Igor B. Zhulin
   - Diana Wolf
 doi: 10.1128/msystems.01348-21
-publication_short: mSystems, e0134821
+publication_short: "mSystems, 7: e0134821"
 abstract: "Maintaining cell envelope integrity is of vital importance for all
   microorganisms. Not surprisingly, evolution has shaped conserved protein
   protection networks that connect stress perception, transmembrane signal
@@ -40,8 +40,8 @@ abstract: "Maintaining cell envelope integrity is of vital importance for all
 draft: false
 featured: false
 image:
-  filename: featured.jpg
-  focal_point: Smart
+  filename: picture1.png
+  focal_point: CENTER
   preview_only: false
 date: 2022-05-23T17:22:30.297Z
 ---
