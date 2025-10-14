@@ -39,7 +39,7 @@ abstract: The bacterial flagellum is a complex nanomachine essential for
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: picture2.jpg
   focal_point: Smart
   preview_only: false
 date: 2025-10-14T12:16:37.316Z
