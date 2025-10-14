@@ -13,7 +13,7 @@ authors:
   - Igor B Zhulin
   - Tino Krell
 doi: 10.1186/s13059-025-03703-6
-publication: "Genome Biology, vol. 26: 260."
+publication: "Genome Biology, vol. 26: 260"
 abstract: >-
   Background: Chemotaxis to plant compounds is frequently the initial step for
   the colonization of plants by bacteria. Plant pathogens and plant-associated
