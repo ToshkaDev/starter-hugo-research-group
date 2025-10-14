@@ -14,7 +14,7 @@ authors:
   - Victor Sourjik
 doi: 10.1073/pnas.2508950122
 publication: "Proceedings of the National Academy of Sciences of the USA, vol.
-  122: e2508950122."
+  122: e2508950122"
 abstract: "The human gut is rich in metabolites and harbors a complex microbial
   community, yet surprisingly little is known about the spectrum of chemical
   signals detected by the large variety of sensory receptors present in the gut
