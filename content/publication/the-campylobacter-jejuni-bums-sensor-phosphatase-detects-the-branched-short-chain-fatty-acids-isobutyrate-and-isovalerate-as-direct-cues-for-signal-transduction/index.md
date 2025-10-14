@@ -11,7 +11,7 @@ authors:
   - Chad A. Brautigam
   - David R. Hendrixson
 doi: https://doi.org/10.1128/mbio.03278-24
-publication: "mBio, vol.16: e0327824."
+publication: "mBio, vol.16: e0327824"
 abstract: Two-component signal transduction systems (TCSs) are nearly ubiquitous
   across bacterial species and enable bacteria to sense and respond to specific
   cues for environmental adaptation. The Campylobacter jejuni BumSR TCS is
