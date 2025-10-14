@@ -7,7 +7,8 @@ authors:
   - Barry L. Taylor
   - Ray Dixon
 doi: 10.1016/s0968-0004(97)01110-9
-publication_short: "Trends in Biochemical Sciences 22: 331-333"
+publication: "Trends in Biochemical Sciences 22: 331-333"
+publication_short: ""
 draft: false
 featured: false
 image:
