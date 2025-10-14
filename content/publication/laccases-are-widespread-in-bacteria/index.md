@@ -6,7 +6,8 @@ authors:
   - Gladys Alexandre
   - Igor B. Zhulin
 doi: https://doi.org/10.1016/S0167-7799(99)01406-7
-publication_short: " Trends in Biotechnology 18: 41-42"
+publication: " Trends in Biotechnology 18: 41-42"
+publication_short: ""
 draft: false
 featured: false
 image:
