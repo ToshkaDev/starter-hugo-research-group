@@ -26,7 +26,7 @@ abstract: The ability of bacteria to adapt to changing environmental conditions
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: picture1.jpg
   focal_point: Smart
   preview_only: false
 date: 2025-10-14T12:07:00.689Z
