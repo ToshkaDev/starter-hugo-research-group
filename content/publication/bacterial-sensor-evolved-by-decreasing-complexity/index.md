@@ -26,7 +26,7 @@ abstract: Many bacterial receptors contain multimodular sensing domains
 draft: false
 featured: false
 image:
-  filename: msa_atu0526_refseq_mafft_98red_domain_only.jpg
+  filename: picture1.jpg
   focal_point: Smart
   preview_only: false
 date: 2025-01-29T20:51:35.003Z
