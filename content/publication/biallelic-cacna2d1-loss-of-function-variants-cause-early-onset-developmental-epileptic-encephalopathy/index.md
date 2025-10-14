@@ -19,8 +19,8 @@ authors:
   - Maura R. Z. Ruzhnikov
   - Kerstin Kutsche
   - Annette C. Dolphin
-doi: https://doi.org/10.1093/brain/awac081
-publication_short: Brain, awac081
+doi: 10.1093/brain/awac081
+publication_short: "Brain, 145: 2721-2729"
 abstract: Voltage-gated calcium (CaV) channels form three sub-families (CaV1-3).
   The CaV1 and CaV2 channels are heteromeric, consisting of an α1 pore-forming
   subunit, associated with auxiliary CaVβ and α2δ subunits. The α2δ subunits are
@@ -45,8 +45,8 @@ abstract: Voltage-gated calcium (CaV) channels form three sub-families (CaV1-3).
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: m_awac081f1.jpeg
+  focal_point: CENTER
   preview_only: false
 date: 2022-03-16T21:34:00.000Z
 ---
