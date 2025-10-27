@@ -1,58 +1,59 @@
 .article-container {
-    //max-width: 80% !important;
-    text-align: justify;
+  //max-width: 80% !important;
+  text-align: justify;
 }
 
 .hero-lead {
-    //max-width: 80% !important;
-    text-align: justify;
+  //max-width: 80% !important;
+  text-align: justify;
 }
 
 .home-section.fullscreen {
-    max-height: 30%;
-    min-height: calc(100vh - 500px);
-    //min-height: 30%;
+  max-height: 30%;
+  min-height: calc(100vh - 500px);
+  //min-height: 30%;
 }
 
 .home-section:first-of-type {
-    padding-top: 1px;
-    padding-bottom: 1px;
-    margin-bottom: -90px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-bottom: -90px;
 }
 
-.navbar .navbar-nav .nav-link.active, .navbar .navbar-nav .nav-link.altactive {
-    font-weight: bold !important;
-    color: #AFC2FF !important;
+.navbar .navbar-nav .nav-link.active,
+.navbar .navbar-nav .nav-link.altactive {
+  font-weight: bold !important;
+  color: #afc2ff !important;
 }
 
 #map {
-    height: 500px;
-    width: 100%;
+  height: 500px;
+  width: 100%;
 }
 
 .section-heading h1 {
-    margin: 0 0 10px 0;
-    margin-top: 20px;
+  margin: 0 0 10px 0;
+  margin-top: 20px;
 }
 
-#alumni{
-    margin-top: 100px;
-    text-align: center;
+#alumni {
+  margin-top: 100px;
+  text-align: center;
 }
 
 .alumni-people {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 #art-contain {
-    max-width: 950px;
+  max-width: 950px;
 }
 
 .person-info {
-    padding-top: 30px;
-    text-align: justify;
+  padding-top: 30px;
+  text-align: justify;
 }
 
 .page-footer-extend {
-    padding-top: 70px;
+  padding-top: 70px;
 }
