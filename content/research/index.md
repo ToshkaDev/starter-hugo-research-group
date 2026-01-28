@@ -14,6 +14,8 @@ header:
 
 <!-- ## **Research theme 1: Signal transduction in bacteria** -->
 
+Our lab studies how bacteria sense their environment and convert sensory inputs into behavior and physiology. We combine comparative genomics, structural inference, systems-level analysis, and evolution to predict sensory functions of signaling proteins across diverse microbes. A major emphasis is understanding the diversity and evolution of bacterial sensory receptors, including the sensor domains that recognize key metabolites, host-derived ligands, and other environmental cues.
+
 **What bacteria sense.** A central goal of our research is to map sensory repertoires across microbial genomes and microbiomes. We develop frameworks that connect receptor/domain architecture to specific signals and biological function.
 
 **Evolution and diversification of sensor domains.** We investigate the origins and functional specialization of widespread sensor domains, especially those of PAS and Cache superfamilies, to understand how new sensing capabilities emerge and spread across lineages. Our studies integrate evolutionary reconstruction with function-driven domain classification. 
